@@ -1,0 +1,25 @@
+{
+  "model": "distilbert-base-uncased",
+  "task": "ag_news_clean_test",
+  "train_size": 108000,
+  "val_size": 12000,
+  "test_size": 7600,
+  "batch_size": 16,
+  "num_epochs": 2,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "max_length": 128,
+  "device": "cuda",
+  "test_metrics": {
+    "accuracy": 0.9456578947368421,
+    "macro_f1": 0.945677119167807,
+    "per_class_f1": {
+      "World": 0.9568440561292031,
+      "Sports": 0.9865965834428384,
+      "Business": 0.916910007963897,
+      "Sci/Tech": 0.9223578291352895
+    },
+    "loss": 0.19000312517691206
+  },
+  "model_save_dir": "models/distilbert_ag_news"
+}

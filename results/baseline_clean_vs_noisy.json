@@ -1,0 +1,50 @@
+[
+  {
+    "model": "majority_baseline",
+    "setting": "clean",
+    "accuracy": 0.25,
+    "macro_f1": 0.1,
+    "per_class_f1": {
+      "World": 0.4,
+      "Sports": 0.0,
+      "Business": 0.0,
+      "Sci/Tech": 0.0
+    }
+  },
+  {
+    "model": "majority_baseline",
+    "setting": "noisy",
+    "accuracy": 0.25,
+    "macro_f1": 0.1,
+    "per_class_f1": {
+      "World": 0.4,
+      "Sports": 0.0,
+      "Business": 0.0,
+      "Sci/Tech": 0.0
+    }
+  },
+  {
+    "model": "tfidf_logreg",
+    "setting": "clean",
+    "accuracy": 0.9198684210526316,
+    "macro_f1": 0.9196836923119007,
+    "per_class_f1": {
+      "World": 0.9214743589743589,
+      "Sports": 0.9665543168265491,
+      "Business": 0.8904182106934886,
+      "Sci/Tech": 0.9002878827532059
+    }
+  },
+  {
+    "model": "tfidf_logreg",
+    "setting": "noisy",
+    "accuracy": 0.9135526315789474,
+    "macro_f1": 0.9133624462449424,
+    "per_class_f1": {
+      "World": 0.9161118508655126,
+      "Sports": 0.9623865110246433,
+      "Business": 0.8847780126849895,
+      "Sci/Tech": 0.8901734104046243
+    }
+  }
+]

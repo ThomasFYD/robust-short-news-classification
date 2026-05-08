@@ -1,0 +1,12 @@
+{
+  "num_examples": 5700,
+  "output_file": "data/ag_news_test_adversarial_worldcue.jsonl",
+  "attack_type": "world_cue_injection",
+  "source_labels": [
+    "Sports",
+    "Business",
+    "Sci/Tech"
+  ],
+  "target_confusion_hypothesis": "Examples may be misclassified as World after injection of spurious international/government cues.",
+  "random_seed": 42
+}

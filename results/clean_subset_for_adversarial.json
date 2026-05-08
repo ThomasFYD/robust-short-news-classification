@@ -1,0 +1,34 @@
+{
+  "majority_baseline": {
+    "accuracy": 0.0,
+    "macro_f1": 0.0,
+    "per_class_f1": {
+      "World": 0.0,
+      "Sports": 0.0,
+      "Business": 0.0,
+      "Sci/Tech": 0.0
+    }
+  },
+  "tfidf_logreg": {
+    "accuracy": 0.923859649122807,
+    "macro_f1": 0.700000604021034,
+    "per_class_f1": {
+      "World": 0.0,
+      "Sports": 0.9807945277558537,
+      "Business": 0.906983014289566,
+      "Sci/Tech": 0.9122248740387165
+    }
+  },
+  "distilbert": {
+    "accuracy": 0.9438596491228071,
+    "macro_f1": 0.7121925145558587,
+    "per_class_f1": {
+      "World": 0.0,
+      "Sports": 0.9897179013973109,
+      "Business": 0.9277464410421703,
+      "Sci/Tech": 0.9313057157839538
+    },
+    "loss": 0.19785050019705097,
+    "world_prediction_rate": 0.012280701754385965
+  }
+}

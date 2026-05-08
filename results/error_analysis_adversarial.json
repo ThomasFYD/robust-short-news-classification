@@ -1,0 +1,1814 @@
+{
+  "tfidf_clean_correct_adv_wrong": [
+    {
+      "id": 8,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "E-mail scam targets police chief Wiltshire Police warns about \"phishing\" after its fraud squad chief was targeted.",
+      "adversarial_text": "E-mail scam targets police chief Wiltshire Police warns about \"phishing\" after its fraud squad chief was targeted. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 23,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Some People Not Eligible to Get in on Google IPO Google has billed its IPO as a way for everyday people to get in on the process, denying Wall Street the usual stranglehold it's had on IPOs. Public bidding, a minimum of just five shares, an open process with 28 underwriters - all this pointed to a new level of public participation. But this isn't the case.",
+      "adversarial_text": "Some People Not Eligible to Get in on Google IPO Google has billed its IPO as a way for everyday people to get in on the process, denying Wall Street the usual stranglehold it's had on IPOs. Public bidding, a minimum of just five shares, an open process with 28 underwriters - all this pointed to a new level of public participation. But this isn't the case. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 55,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Sports",
+      "original_text": "Promoting a Shared Vision As Michael Kaleko kept running into people who were getting older and having more vision problems, he realized he could do something about it.",
+      "adversarial_text": "Promoting a Shared Vision As Michael Kaleko kept running into people who were getting older and having more vision problems, he realized he could do something about it. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 125,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "SUVs: Live And Let Die NEW YORK - The newly released traffic crash fatality data have something for everyone in the debate about the safety of sport utility vehicles. ",
+      "adversarial_text": "SUVs: Live And Let Die NEW YORK - The newly released traffic crash fatality data have something for everyone in the debate about the safety of sport utility vehicles. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 206,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Boro Captain Warns of Duo #39;s Threat Gareth Southgate has warned Barclays Premiership defences to be wary of Middlesbroughs back-to-form strikers Mark Viduka and Jimmy Floyd Hasselbaink.",
+      "adversarial_text": "Boro Captain Warns of Duo #39;s Threat Gareth Southgate has warned Barclays Premiership defences to be wary of Middlesbroughs back-to-form strikers Mark Viduka and Jimmy Floyd Hasselbaink. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 240,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Bill Clinton Helps Launch Search Engine Former president Bill Clinton on Monday helped launch a new Internet search company backed by the Chinese government which says its technology uses artificial intelligence to produce better results than Google Inc.",
+      "adversarial_text": "Bill Clinton Helps Launch Search Engine Former president Bill Clinton on Monday helped launch a new Internet search company backed by the Chinese government which says its technology uses artificial intelligence to produce better results than Google Inc. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 288,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Vt. sues over importing drugs Vermont's Republican governor challenged the Bush administration's prescription drug policy in federal court yesterday, marking the first time a state has chosen a legal avenue in the expanding battle over Canadian imports.",
+      "adversarial_text": "Vt. sues over importing drugs Vermont's Republican governor challenged the Bush administration's prescription drug policy in federal court yesterday, marking the first time a state has chosen a legal avenue in the expanding battle over Canadian imports. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 312,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Dogs in Training to Sniff Out Cancer Experts have trained unwanted dogs into supersniffers that can detect drugs or bombs. Now they're focusing on a new threat #151;prostate cancer.",
+      "adversarial_text": "Dogs in Training to Sniff Out Cancer Experts have trained unwanted dogs into supersniffers that can detect drugs or bombs. Now they're focusing on a new threat #151;prostate cancer. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 336,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Chavez victory confirmed Caracas, Venezuela - The results of an audit support the official vote count showing that President Hugo Chavez won this month #39;s recall referendum in Venezuela, the head of the Organization of American States said Saturday.",
+      "adversarial_text": "Chavez victory confirmed Caracas, Venezuela - The results of an audit support the official vote count showing that President Hugo Chavez won this month #39;s recall referendum in Venezuela, the head of the Organization of American States said Saturday. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 360,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Admirers look to 2008 But as far as swim greats Rowdy Gaines and John Naber are concerned, what Phelps did in Athens exceeded what Spitz did in Munich in 1972.",
+      "adversarial_text": "Admirers look to 2008 But as far as swim greats Rowdy Gaines and John Naber are concerned, what Phelps did in Athens exceeded what Spitz did in Munich in 1972. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 410,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Productivity Growth Slowest in 2 Years (AP) AP - The productivity of America's workers grew at a 1.8 percent annual rate in the third quarter, the slowest pace in nearly two years, the government reported Tuesday.",
+      "adversarial_text": "Productivity Growth Slowest in 2 Years (AP) AP - The productivity of America's workers grew at a 1.8 percent annual rate in the third quarter, the slowest pace in nearly two years, the government reported Tuesday. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 481,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Dark arts of spin evident in phoney war for Abbey THE phoney war over the fate of Abbey grinds on. Along the way, on all sides, it is producing its predictable crop of knowing winks and destabilising nudges.",
+      "adversarial_text": "Dark arts of spin evident in phoney war for Abbey THE phoney war over the fate of Abbey grinds on. Along the way, on all sides, it is producing its predictable crop of knowing winks and destabilising nudges. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 488,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Audit finds no fraud in Venezuelan recall vote CARACAS : An audit of last Sunday #39;s recall vote in Venezuela, which favored keeping President Hugo Chavez in office, found no evidence of fraud, as the opposition had charged, electoral officials said.",
+      "adversarial_text": "Audit finds no fraud in Venezuelan recall vote CARACAS : An audit of last Sunday #39;s recall vote in Venezuela, which favored keeping President Hugo Chavez in office, found no evidence of fraud, as the opposition had charged, electoral officials said. Officials in France commented on the situation."
+    },
+    {
+      "id": 553,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Careening Indians Fall Slumping Cleveland lost a three-run lead while Derek Jeter homered and stole two ninth-inning bases as New York sent the Indians to their ninth consecutive loss, 5-4, Tuesday.",
+      "adversarial_text": "Careening Indians Fall Slumping Cleveland lost a three-run lead while Derek Jeter homered and stole two ninth-inning bases as New York sent the Indians to their ninth consecutive loss, 5-4, Tuesday. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 563,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Jamaican Government to Provide Free Internet Access in Poor &lt;b&gt;...&lt;/b&gt; Jamaica #39;s government on Tuesday announced a US\\$5 million (Jamaican \\$308 million) plan to provide free Internet access in poor communities across the island.",
+      "adversarial_text": "Jamaican Government to Provide Free Internet Access in Poor &lt;b&gt;...&lt;/b&gt; Jamaica #39;s government on Tuesday announced a US\\$5 million (Jamaican \\$308 million) plan to provide free Internet access in poor communities across the island. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 631,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "British sailors bag bronze Britain's Chris Draper and Simon Hiscocks win bronze in a tense final 49er race on the Saronic Gulf.",
+      "adversarial_text": "British sailors bag bronze Britain's Chris Draper and Simon Hiscocks win bronze in a tense final 49er race on the Saronic Gulf. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 714,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "CSKA sponsor rejects criticism RUSSIAN oil giant Sibneft today rejected any suggestion of a conflict of interest existing between Chelsea and CSKA Moscow who are due to meet in the Champions League.",
+      "adversarial_text": "CSKA sponsor rejects criticism RUSSIAN oil giant Sibneft today rejected any suggestion of a conflict of interest existing between Chelsea and CSKA Moscow who are due to meet in the Champions League. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 717,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "United States 66, Russia 62 Frustrated by fouls, turnovers and a feisty opponent, the United States desperately looked for help. Then along came Sheryl Swoopes to set things right.",
+      "adversarial_text": "United States 66, Russia 62 Frustrated by fouls, turnovers and a feisty opponent, the United States desperately looked for help. Then along came Sheryl Swoopes to set things right. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 796,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "The Hunt for a Hybrid The Aug. 23 front-page article on the Toyota Prius vs. the Honda Civic implied that the main reason people prefer the Prius was its  quot;geek-chic look quot; and the image buyers want.",
+      "adversarial_text": "The Hunt for a Hybrid The Aug. 23 front-page article on the Toyota Prius vs. the Honda Civic implied that the main reason people prefer the Prius was its  quot;geek-chic look quot; and the image buyers want. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 822,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Legendary double for El Guerrouj In a historic 5,000-meter race, Hicham El Guerrouj of Morocco, who won gold at 1,500 meters last week, outkicked Kenenisa Bekele of Ethiopia in ",
+      "adversarial_text": "Legendary double for El Guerrouj In a historic 5,000-meter race, Hicham El Guerrouj of Morocco, who won gold at 1,500 meters last week, outkicked Kenenisa Bekele of Ethiopia in. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 861,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Canada, US fail to resolve beef trade dispute Canada and the United States have failed to reach an agreement on resuming US imports of Canadian live cattle, local press reported Sunday.",
+      "adversarial_text": "Canada, US fail to resolve beef trade dispute Canada and the United States have failed to reach an agreement on resuming US imports of Canadian live cattle, local press reported Sunday. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 871,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Beijing gears up for 2008 Although the Beijing Olympics is still four years away, the Chinese capital is already gearing up to host the event. The city of over 12 million is refurbishing ancient landmarks in ",
+      "adversarial_text": "Beijing gears up for 2008 Although the Beijing Olympics is still four years away, the Chinese capital is already gearing up to host the event. The city of over 12 million is refurbishing ancient landmarks in. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 876,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Still no beef resolution after latest talks NEW YORK, (Aug. 30, 2004) - Cattle farmers and haulers finally looking for a quick end to a 15-month ban on live cattle exports to the US are out of luck after Canadian Agriculture Minister Andy Mitchell ",
+      "adversarial_text": "Still no beef resolution after latest talks NEW YORK, (Aug. 30, 2004) - Cattle farmers and haulers finally looking for a quick end to a 15-month ban on live cattle exports to the US are out of luck after Canadian Agriculture Minister Andy Mitchell. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 1026,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Taiwan #39;s Acer picks a European as president TAIPEI Acer, the Taiwan computer company, named Gianfranco Lanci of Italy as its president on Wednesday, an appointment that signals the company #39;s ambitions to expand its global market share.",
+      "adversarial_text": "Taiwan #39;s Acer picks a European as president TAIPEI Acer, the Taiwan computer company, named Gianfranco Lanci of Italy as its president on Wednesday, an appointment that signals the company #39;s ambitions to expand its global market share. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 1093,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "After Steep Drop, Price of Oil Rises The freefall in oil prices ended Monday on a spate of ominous developments, including a deadly attack on a US consulate in Saudi Arabia and reports that OPEC might cut production this week.",
+      "adversarial_text": "After Steep Drop, Price of Oil Rises The freefall in oil prices ended Monday on a spate of ominous developments, including a deadly attack on a US consulate in Saudi Arabia and reports that OPEC might cut production this week. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 1101,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Del Monte Needs 9Lives The leading private and branded food and pet products marketer is spending to revamp its image.",
+      "adversarial_text": "Del Monte Needs 9Lives The leading private and branded food and pet products marketer is spending to revamp its image. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 1126,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "USA : Textile industry to renew request to place embargo on &lt;b&gt;...&lt;/b&gt; The US textile industry officials would plead for blocking Chinese imports to the Bush administration this month. Earlier this year, the White House had rejected a similar request made by 130 Republican and Democratic members of Congress.",
+      "adversarial_text": "USA : Textile industry to renew request to place embargo on &lt;b&gt;...&lt;/b&gt; The US textile industry officials would plead for blocking Chinese imports to the Bush administration this month. Earlier this year, the White House had rejected a similar request made by 130 Republican and Democratic members of Congress. Officials in France commented on the situation."
+    },
+    {
+      "id": 1229,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Toyota to open south China plant Japan carmaker Toyota enters a joint venture to produce saloon cars in southern China.",
+      "adversarial_text": "Toyota to open south China plant Japan carmaker Toyota enters a joint venture to produce saloon cars in southern China. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 1258,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Slovaks and Czechs reject French minister #39;s suggestion over EU &lt;b&gt;...&lt;/b&gt; The Slovak and Czech governments Monday rejected a proposal by French Finance Minister Nicolas Sarkozy to axe structural funds for new EU members whose taxes were lower than the European average.",
+      "adversarial_text": "Slovaks and Czechs reject French minister #39;s suggestion over EU &lt;b&gt;...&lt;/b&gt; The Slovak and Czech governments Monday rejected a proposal by French Finance Minister Nicolas Sarkozy to axe structural funds for new EU members whose taxes were lower than the European average. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 1307,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Tribe challenges American origins Some of the earliest settlers of America may have been from Australia, southern Asia, and the Pacific, not northern Asia, research suggests.",
+      "adversarial_text": "Tribe challenges American origins Some of the earliest settlers of America may have been from Australia, southern Asia, and the Pacific, not northern Asia, research suggests. Officials in France commented on the situation."
+    },
+    {
+      "id": 1312,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Florida weather may help Israeli citrus industry As sunshine state licks its wounds from Hurricane Frances, Gan Shmuel could reap the benefits. The most important news for Florida #39;s 2.8 million residents this week has not been from the Republican ",
+      "adversarial_text": "Florida weather may help Israeli citrus industry As sunshine state licks its wounds from Hurricane Frances, Gan Shmuel could reap the benefits. The most important news for Florida #39;s 2.8 million residents this week has not been from the Republican. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 1343,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Matsushita Unveils DVD Recorders, Eyes Higher Share  TOKYO (Reuters) - Panasonic brand products maker Matsushita  Electric Industrial unveiled five new DVD recorders on  Wednesday and said it was aiming to boost its share of the  domestic market to over 40 percent from around 35 percent.",
+      "adversarial_text": "Matsushita Unveils DVD Recorders, Eyes Higher Share  TOKYO (Reuters) - Panasonic brand products maker Matsushita  Electric Industrial unveiled five new DVD recorders on  Wednesday and said it was aiming to boost its share of the  domestic market to over 40 percent from around 35 percent. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 1400,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Wind-Aided Delay May Be Plus for Pitt (AP) AP - The rainy remnants of Hurricane Frances forced Pittsburgh to practice inside in advance of its delayed season opener.",
+      "adversarial_text": "Wind-Aided Delay May Be Plus for Pitt (AP) AP - The rainy remnants of Hurricane Frances forced Pittsburgh to practice inside in advance of its delayed season opener. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 1427,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Teenager Charged With Creating Sasser Informants, seeking a reward from Microsoft, led police to the German student.",
+      "adversarial_text": "Teenager Charged With Creating Sasser Informants, seeking a reward from Microsoft, led police to the German student. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 1460,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Scientists Stumped by Dead Croakers (AP) AP - Thousands of croakers have washed ashore at beaches along the Atlantic coast in recent days, the latest mass deaths of the popular sport fish.",
+      "adversarial_text": "Scientists Stumped by Dead Croakers (AP) AP - Thousands of croakers have washed ashore at beaches along the Atlantic coast in recent days, the latest mass deaths of the popular sport fish. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 1552,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Restoring an Original At Charles Schwab, executives plan a return to the firm's original mission of serving mom-and-pop, buy-and-hold investors.",
+      "adversarial_text": "Restoring an Original At Charles Schwab, executives plan a return to the firm's original mission of serving mom-and-pop, buy-and-hold investors. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 1631,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "FDA OKs Kit Used with Hemophilia Therapy  CHICAGO (Reuters) - Wyeth Pharmaceuticals said on Monday it  received U.S. regulatory approval for a kit designed to help  patients with the blood disorder hemophilia get regular  treatments more quickly and safely.",
+      "adversarial_text": "FDA OKs Kit Used with Hemophilia Therapy  CHICAGO (Reuters) - Wyeth Pharmaceuticals said on Monday it  received U.S. regulatory approval for a kit designed to help  patients with the blood disorder hemophilia get regular  treatments more quickly and safely. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 1688,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Help wanted by IT services firms The growing services industry is hiring, but tech workers looking for a job may need to do more than brush up on their coding.",
+      "adversarial_text": "Help wanted by IT services firms The growing services industry is hiring, but tech workers looking for a job may need to do more than brush up on their coding. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 1712,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Tyncastle sale gets official go ahead Of the votes received by proxy and from shareholders in the room at a stormy extraordinary general meeting last night, 62.5 were in favour of the resolution.",
+      "adversarial_text": "Tyncastle sale gets official go ahead Of the votes received by proxy and from shareholders in the room at a stormy extraordinary general meeting last night, 62.5 were in favour of the resolution. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 1956,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Sports",
+      "original_text": "Sandia Motor Speedway for Sale on eBay (AP) AP - And the race is off! Only 29 days and some odd hours left to place your bid on eBay to buy the Sandia Motor Speedway.",
+      "adversarial_text": "Sandia Motor Speedway for Sale on eBay (AP) AP - And the race is off! Only 29 days and some odd hours left to place your bid on eBay to buy the Sandia Motor Speedway. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 2091,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Oracle v. Peoplesoft: the joke is on... Opinion I thought it was a joke when Oracle first announced that it was going to try to buy PeopleSoft; or, at best, a spoiling tactic over PeopleSoft #39;s acquisition of JD Edwards.",
+      "adversarial_text": "Oracle v. Peoplesoft: the joke is on... Opinion I thought it was a joke when Oracle first announced that it was going to try to buy PeopleSoft; or, at best, a spoiling tactic over PeopleSoft #39;s acquisition of JD Edwards. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 2100,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Young People Practicing Unhealthy Habits They show greatest increase in smoking, obesity and poor eating, study says    HealthDayNews -- Smoking, obesity and poor eating habits increased among young people in the United States in the 1990s, a trend that may lead to higher future rates of cancer, heart disease, diabetes and lung disease as that generation ages.    That warning comes from a study in the September/October issue of the American Journal of Health Promotion...",
+      "adversarial_text": "Young People Practicing Unhealthy Habits They show greatest increase in smoking, obesity and poor eating, study says    HealthDayNews -- Smoking, obesity and poor eating habits increased among young people in the United States in the 1990s, a trend that may lead to higher future rates of cancer, heart disease, diabetes and lung disease as that generation ages.    That warning comes from a study in the September/October issue of the American Journal of Health Promotion... Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 2185,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "US star slams sweet-rustlin', phone beepin' theatre crowd (AFP) AFP - Kevin Spacey, the US screen star who is spending a season working for one of London's top West End theatres, lashed out at members of the audience who rustle sweet wrappers and forget to turn off their mobile phones during performances.",
+      "adversarial_text": "US star slams sweet-rustlin', phone beepin' theatre crowd (AFP) AFP - Kevin Spacey, the US screen star who is spending a season working for one of London's top West End theatres, lashed out at members of the audience who rustle sweet wrappers and forget to turn off their mobile phones during performances. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 2200,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Nothing Robotic About Robo-Art The ArtBots show in New York this past weekend proved that robots can wax artistic, too -- or at least carry out the instructions of their artistic creators. Cyrus Farivar reports from New York.",
+      "adversarial_text": "Nothing Robotic About Robo-Art The ArtBots show in New York this past weekend proved that robots can wax artistic, too -- or at least carry out the instructions of their artistic creators. Cyrus Farivar reports from New York. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2235,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Washington chooses a stadium site for Expos The DC Sports and Entertainment Commission outlined its plans Tuesday night in a meeting with city government officials. An official involved in the process, speaking on condition of anonymity, told The Associated ",
+      "adversarial_text": "Washington chooses a stadium site for Expos The DC Sports and Entertainment Commission outlined its plans Tuesday night in a meeting with city government officials. An official involved in the process, speaking on condition of anonymity, told The Associated. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 2277,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Paralympics: China Surges As First Doping Cases Result In Lifetime &lt;b&gt;...&lt;/b&gt; ATHENS (AFP) - The Athens Paralympics weathered its first doping scandal, while juggernaut China continued to dominate the competition, racking up nearly twice as many as second-place Britain over the first four days of competition.",
+      "adversarial_text": "Paralympics: China Surges As First Doping Cases Result In Lifetime &lt;b&gt;...&lt;/b&gt; ATHENS (AFP) - The Athens Paralympics weathered its first doping scandal, while juggernaut China continued to dominate the competition, racking up nearly twice as many as second-place Britain over the first four days of competition. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 2295,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "CBS Fined  #36;550,000 for Jackson Stunt (AP) AP - CBS got the bill Wednesday for Janet Jackson's eye-catching flash dance during the Super Bowl halftime show: a record  #36;550,000.",
+      "adversarial_text": "CBS Fined  #36;550,000 for Jackson Stunt (AP) AP - CBS got the bill Wednesday for Janet Jackson's eye-catching flash dance during the Super Bowl halftime show: a record  #36;550,000. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 2299,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Commission backs 5bn British Energy deal British Energy, the nuclear generator, yesterday welcomed a decision by the European commission to approve a government-backed 5bn rescue plan.",
+      "adversarial_text": "Commission backs 5bn British Energy deal British Energy, the nuclear generator, yesterday welcomed a decision by the European commission to approve a government-backed 5bn rescue plan. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2317,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Russian atmosphere hard for Westerners The government has eviscerated Russia #39;s Western-style oil company, Yukos, in what has been widely viewed as political payback.",
+      "adversarial_text": "Russian atmosphere hard for Westerners The government has eviscerated Russia #39;s Western-style oil company, Yukos, in what has been widely viewed as political payback. Officials in France commented on the situation."
+    },
+    {
+      "id": 2417,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Baby for ovary transplant woman A Belgian cancer patient made infertile by chemotherapy has given birth following revolutionary treatment.",
+      "adversarial_text": "Baby for ovary transplant woman A Belgian cancer patient made infertile by chemotherapy has given birth following revolutionary treatment. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 2423,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Internet Emerging As Potent Terrorist Tool By THOMAS WAGNER     LONDON (AP) -- The images coming out of the latest hostage crisis in Iraq - capped by dramatic video of British captive Kenneth Bigley begging for his life - have transfixed Britons, left governments looking helpless, and revived a classic dilemma about whether to negotiate with terrorists.    But the plight of the British construction worker and his two murdered American colleagues has also raised new concerns about terrorists' tremendous ability to set agendas in an Internet age that makes their messages - even in the form of shocking beheading videos - all but impossible to stop...",
+      "adversarial_text": "Internet Emerging As Potent Terrorist Tool By THOMAS WAGNER     LONDON (AP) -- The images coming out of the latest hostage crisis in Iraq - capped by dramatic video of British captive Kenneth Bigley begging for his life - have transfixed Britons, left governments looking helpless, and revived a classic dilemma about whether to negotiate with terrorists.    But the plight of the British construction worker and his two murdered American colleagues has also raised new concerns about terrorists' tremendous ability to set agendas in an Internet age that makes their messages - even in the form of shocking beheading videos - all but impossible to stop... Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 2428,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Security firm justifies virus writer's job SecurePoint says the alleged Sasser author was \"just an immature boy with mindless intent\" who wants to make amends.",
+      "adversarial_text": "Security firm justifies virus writer's job SecurePoint says the alleged Sasser author was \"just an immature boy with mindless intent\" who wants to make amends. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2462,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Putin Says Russia Could Be a Yukos Bidder President Vladimir V. Putin said on Friday that state-run companies might bid for assets of Yukos in any sale to collect back taxes.",
+      "adversarial_text": "Putin Says Russia Could Be a Yukos Bidder President Vladimir V. Putin said on Friday that state-run companies might bid for assets of Yukos in any sale to collect back taxes. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 2523,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Fans Honour Legend Clough Thousands of football fans fell silent today to honour the life and achievements of legendary manager Brian Clough. A public tribute was held in Nottingham city centre and a minute ",
+      "adversarial_text": "Fans Honour Legend Clough Thousands of football fans fell silent today to honour the life and achievements of legendary manager Brian Clough. A public tribute was held in Nottingham city centre and a minute. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 2580,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Hurricane Ivan blows Courts #39; profits away MILLIONS of pounds are likely to be wiped off profits at the Caribbean arm of furniture retailer Courts following the devastating impact of Hurricane Ivan.",
+      "adversarial_text": "Hurricane Ivan blows Courts #39; profits away MILLIONS of pounds are likely to be wiped off profits at the Caribbean arm of furniture retailer Courts following the devastating impact of Hurricane Ivan. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 2633,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Senate weighs H-1B visa changes U.S. senators are debating a controversial measure to exempt foreign student graduates from the cap on H-1B visas.",
+      "adversarial_text": "Senate weighs H-1B visa changes U.S. senators are debating a controversial measure to exempt foreign student graduates from the cap on H-1B visas. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 2643,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Vodafone keen on future expansion Vodafone said today it remained keen on purchases in France, eastern Europe and Asia and Africa as it detailed annual cost cuts expected to reach 2.",
+      "adversarial_text": "Vodafone keen on future expansion Vodafone said today it remained keen on purchases in France, eastern Europe and Asia and Africa as it detailed annual cost cuts expected to reach 2. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 2667,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Virgin Mobile growth prospects disappoint Richard Branson #39;s Virgin Mobile has forecast substantially higher earnings and margins, but disappointing predictions for service revenue ",
+      "adversarial_text": "Virgin Mobile growth prospects disappoint Richard Branson #39;s Virgin Mobile has forecast substantially higher earnings and margins, but disappointing predictions for service revenue. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 2786,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Colombia back in business, needs reforms-Uribe Colombia is back in business and the Andean country has ample room for growth backed by aggressive and transparent government policies but with some challenges ",
+      "adversarial_text": "Colombia back in business, needs reforms-Uribe Colombia is back in business and the Andean country has ample room for growth backed by aggressive and transparent government policies but with some challenges. Officials in France commented on the situation."
+    },
+    {
+      "id": 2815,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Around The Region In another move to cut costs, Continental Airlines is closing 14 of its ticketing offices systemwide, including three in the Houston area.",
+      "adversarial_text": "Around The Region In another move to cut costs, Continental Airlines is closing 14 of its ticketing offices systemwide, including three in the Houston area. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 2854,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Tesco steps up RFID efforts Tesco is rolling out radio barcode technology across its 98 Tesco Extra stores to track high-value items between its internal distribution centres and its outlets.",
+      "adversarial_text": "Tesco steps up RFID efforts Tesco is rolling out radio barcode technology across its 98 Tesco Extra stores to track high-value items between its internal distribution centres and its outlets. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2887,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Singer: Minaya returns home NEW YORK -- Omar Minaya stood behind a small lectern in a danky room in the bowels of Shea Stadium, and allowed his life to flash before his eyes.",
+      "adversarial_text": "Singer: Minaya returns home NEW YORK -- Omar Minaya stood behind a small lectern in a danky room in the bowels of Shea Stadium, and allowed his life to flash before his eyes. Officials in France commented on the situation."
+    },
+    {
+      "id": 2914,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Netflix, TiVo sign VoD alliance Netflix, the online DVD rental company, and TiVo yesterday said they will work together to deliver movies digitally down the wires, presumably specifically to the latter #39;s PVR equipment.",
+      "adversarial_text": "Netflix, TiVo sign VoD alliance Netflix, the online DVD rental company, and TiVo yesterday said they will work together to deliver movies digitally down the wires, presumably specifically to the latter #39;s PVR equipment. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 2952,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Fortune's 100 Most Doomed? Your company made it to Fortune's 100 Fastest Growing Companies list. Is that a good thing?",
+      "adversarial_text": "Fortune's 100 Most Doomed? Your company made it to Fortune's 100 Fastest Growing Companies list. Is that a good thing? Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 2985,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "China at G-7 Meeting for First Time China made its debut last night in the club of the world's leading economic powers, asinternational pressure mounts to change a decade-old currency peg that critics accuse of giving Chinese products an unfair competitive edge.",
+      "adversarial_text": "China at G-7 Meeting for First Time China made its debut last night in the club of the world's leading economic powers, asinternational pressure mounts to change a decade-old currency peg that critics accuse of giving Chinese products an unfair competitive edge. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 3016,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "US, Allies Far Apart on Iraq Debt Relief WASHINGTON Oct. 2, 2004 - The United States and its major economic allies struggled Saturday to resolve deep differences over how best to relieve the heavy debt burden for Iraq and the world #39;s poorest countries.",
+      "adversarial_text": "US, Allies Far Apart on Iraq Debt Relief WASHINGTON Oct. 2, 2004 - The United States and its major economic allies struggled Saturday to resolve deep differences over how best to relieve the heavy debt burden for Iraq and the world #39;s poorest countries. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 3049,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Flu sidelines Clemens on Sunday Roger Clemens was scratched from his start on Sunday after spending most of the overnight hours battling a stomach virus. Clemens #39; blood pressure was slightly elevated ",
+      "adversarial_text": "Flu sidelines Clemens on Sunday Roger Clemens was scratched from his start on Sunday after spending most of the overnight hours battling a stomach virus. Clemens #39; blood pressure was slightly elevated. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 3057,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Mobile phone network reaches last of China's ethnic minorities (AFP) AFP - China has brought its mobile phone network to the last of its ethnic minority regions previously cut off from communication with the outside world, state media reported.",
+      "adversarial_text": "Mobile phone network reaches last of China's ethnic minorities (AFP) AFP - China has brought its mobile phone network to the last of its ethnic minority regions previously cut off from communication with the outside world, state media reported. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 3068,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Mexico's 'Fire Volcano' Erupts, No Evacuations Yet (Reuters) Reuters - Mexico's so-called \"Fire\\Volcano\" spewed lava, glowing rocks and flames on Friday in an\\eruption that authorities said was not yet serious enough to\\evacuate nearby villages.",
+      "adversarial_text": "Mexico's 'Fire Volcano' Erupts, No Evacuations Yet (Reuters) Reuters - Mexico's so-called \"Fire\\Volcano\" spewed lava, glowing rocks and flames on Friday in an\\eruption that authorities said was not yet serious enough to\\evacuate nearby villages. Officials in France commented on the situation."
+    },
+    {
+      "id": 3070,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Bush defends tax cuts WASHINGTON, Oct 2 (AFP) - US President George W. Bush said Saturday he would renew some of the huge tax cuts that form a cornerstone of his economic rejuvenation policy and chided Democratic challenger John Kerry for opposing the cuts.",
+      "adversarial_text": "Bush defends tax cuts WASHINGTON, Oct 2 (AFP) - US President George W. Bush said Saturday he would renew some of the huge tax cuts that form a cornerstone of his economic rejuvenation policy and chided Democratic challenger John Kerry for opposing the cuts. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 3413,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Ravens Star Jamal Lewis Pleads Guilty to Drug Charge (Reuters) Reuters - Baltimore Ravens football star Jamal\\Lewis pleaded guilty on Thursday to using a cell phone to try\\to broker a cocaine deal, avoiding more serious federal drug\\charges that could have sent him to prison for life.",
+      "adversarial_text": "Ravens Star Jamal Lewis Pleads Guilty to Drug Charge (Reuters) Reuters - Baltimore Ravens football star Jamal\\Lewis pleaded guilty on Thursday to using a cell phone to try\\to broker a cocaine deal, avoiding more serious federal drug\\charges that could have sent him to prison for life. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 3449,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "House passes bill to criminalize spyware fraud The House Thursday passed a bill that would criminalize the use of spyware to commit fraud or other crimes, adding an additional two to five years to federal sentences.",
+      "adversarial_text": "House passes bill to criminalize spyware fraud The House Thursday passed a bill that would criminalize the use of spyware to commit fraud or other crimes, adding an additional two to five years to federal sentences. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 3492,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Martha Stewart reports to jail to begin sentence the time she had to report to the country #39;s oldest federal prison for women. service of her sentence, quot; a Federal Bureau of Prisons statement said.",
+      "adversarial_text": "Martha Stewart reports to jail to begin sentence the time she had to report to the country #39;s oldest federal prison for women. service of her sentence, quot; a Federal Bureau of Prisons statement said. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 3523,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Minutemen KO'd by Dukes HARRISONBURG, Va. -- Opposing running backs are beginning to enjoy playing against the University of Massachusetts.",
+      "adversarial_text": "Minutemen KO'd by Dukes HARRISONBURG, Va. -- Opposing running backs are beginning to enjoy playing against the University of Massachusetts. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 3585,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Superstar Kewell remains centre of attention Socceroo forward Harry Kewell loosens up by tossing around a ball at Bondi beach yesterday. Photo: Craig Golding. There were half a dozen Socceroos standing on a raised platform in Sydney #39;s ",
+      "adversarial_text": "Superstar Kewell remains centre of attention Socceroo forward Harry Kewell loosens up by tossing around a ball at Bondi beach yesterday. Photo: Craig Golding. There were half a dozen Socceroos standing on a raised platform in Sydney #39;s. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 3895,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Playing with the traumas of war Are games based on the Vietnam conflict making us immune to realities of history?",
+      "adversarial_text": "Playing with the traumas of war Are games based on the Vietnam conflict making us immune to realities of history? Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 3949,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Florida #39;s prepaid tuition program thriving Already the biggest of its kind in the country, Florida #39;s popular prepaid-tuition program expects to count its millionth customer during a sign-up period that runs Monday through Jan. 31.",
+      "adversarial_text": "Florida #39;s prepaid tuition program thriving Already the biggest of its kind in the country, Florida #39;s popular prepaid-tuition program expects to count its millionth customer during a sign-up period that runs Monday through Jan. 31. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 3962,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "ICC probe clears Zimbabwe of racism in cricket LAHORE, Pakistan (AFP) - The International Cricket Council said yesterday a probe had found no evidence of racism in Zimbabwe cricket and that the Test status of the country #39;s team was never in question.",
+      "adversarial_text": "ICC probe clears Zimbabwe of racism in cricket LAHORE, Pakistan (AFP) - The International Cricket Council said yesterday a probe had found no evidence of racism in Zimbabwe cricket and that the Test status of the country #39;s team was never in question. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 4089,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Start of Ebbers Trial Delayed NEW YORK -- A federal judge has delayed the trial of former WorldCom chief Bernard Ebbers until January 17th. The trial had been set to start November Ninth.",
+      "adversarial_text": "Start of Ebbers Trial Delayed NEW YORK -- A federal judge has delayed the trial of former WorldCom chief Bernard Ebbers until January 17th. The trial had been set to start November Ninth. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 4165,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Opel workers abandon wildcat strikes BOCHUM - Workers at the Opel carmaking plant in the city of Bochum voted overwhelmingly Wednesday to end their nearly week-long wildcat strike and were to return almost immediately to work, officials announced.",
+      "adversarial_text": "Opel workers abandon wildcat strikes BOCHUM - Workers at the Opel carmaking plant in the city of Bochum voted overwhelmingly Wednesday to end their nearly week-long wildcat strike and were to return almost immediately to work, officials announced. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 4258,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "General Assembly committee opens two-day debate on anti-cloning &lt;b&gt;...&lt;/b&gt; The UN General Assembly #39;s legal committee begins a two-day debate today that will focus on the contentious issue. There is support among member states for a treaty banning human cloning, but divisions remain ",
+      "adversarial_text": "General Assembly committee opens two-day debate on anti-cloning &lt;b&gt;...&lt;/b&gt; The UN General Assembly #39;s legal committee begins a two-day debate today that will focus on the contentious issue. There is support among member states for a treaty banning human cloning, but divisions remain. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 4272,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Australia  #39;living beyond its means #39; Environmental organisation WWF International has warned that the global population is consuming about 20 per cent more natural resources than the planet can produce.",
+      "adversarial_text": "Australia  #39;living beyond its means #39; Environmental organisation WWF International has warned that the global population is consuming about 20 per cent more natural resources than the planet can produce. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 4300,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "City Series-ly wounded With the Yanks out of the World Series, the city #39;s economy loses out on at least \\$40 million, according to studies by the controller #39;s office and other city agencies.",
+      "adversarial_text": "City Series-ly wounded With the Yanks out of the World Series, the city #39;s economy loses out on at least \\$40 million, according to studies by the controller #39;s office and other city agencies. Officials in France commented on the situation."
+    },
+    {
+      "id": 4369,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Mexico Struggles to Preserve Ancient Ruins (Reuters) Reuters - The majestic pyramids and\\temples of the ancient Zapotec kingdom of Monte Alban sit\\spectacularly atop a hill in Mexico's southern state of Oaxaca.",
+      "adversarial_text": "Mexico Struggles to Preserve Ancient Ruins (Reuters) Reuters - The majestic pyramids and\\temples of the ancient Zapotec kingdom of Monte Alban sit\\spectacularly atop a hill in Mexico's southern state of Oaxaca. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 4535,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "NASCAR mourns plane crash victims Crews on all-terrain vehicles yesterday recovered the bodies of all 10 people killed in the crash of a Hendrick Motorsports plane that was carrying family and friends of one of NASCAR's top syndicates.",
+      "adversarial_text": "NASCAR mourns plane crash victims Crews on all-terrain vehicles yesterday recovered the bodies of all 10 people killed in the crash of a Hendrick Motorsports plane that was carrying family and friends of one of NASCAR's top syndicates. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 4569,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Aids warning over bushmeat trade Meat from African wild animals being sold illegally in the UK is spreading a virus similar to HIV, a leading scientist warns.",
+      "adversarial_text": "Aids warning over bushmeat trade Meat from African wild animals being sold illegally in the UK is spreading a virus similar to HIV, a leading scientist warns. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 4586,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Hundreds mourn loss of student killed by police during Red Sox &lt;b&gt;...&lt;/b&gt; As hundreds of mourners paid their final respects Tuesday to Victoria Snelgrove, her pastor denounced the raucous fans who prompted police to fire the pepper-spray pellet that killed the college student.",
+      "adversarial_text": "Hundreds mourn loss of student killed by police during Red Sox &lt;b&gt;...&lt;/b&gt; As hundreds of mourners paid their final respects Tuesday to Victoria Snelgrove, her pastor denounced the raucous fans who prompted police to fire the pepper-spray pellet that killed the college student. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 4605,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "AOL Shows Safe Chat Rooms Secure USB tokens used to verify a child's age before allowing him to chat.",
+      "adversarial_text": "AOL Shows Safe Chat Rooms Secure USB tokens used to verify a child's age before allowing him to chat. Officials in France commented on the situation."
+    },
+    {
+      "id": 4698,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Georgia Tech Looks to Virginia Tech (AP) AP - Georgia Tech wants to avoid being embarrassed by another ACC rookie.",
+      "adversarial_text": "Georgia Tech Looks to Virginia Tech (AP) AP - Georgia Tech wants to avoid being embarrassed by another ACC rookie. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 4766,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Ryanair agrees to repay 4M in an escrow account for the Walloon &lt;b&gt;...&lt;/b&gt; vueling writes  quot;Ryanair confirmed it had written to the Walloon authorities and agreed to repay 4M in an escrow account until Ryanairs appeal is heard and the European Courts make a definitive decision on this matter.",
+      "adversarial_text": "Ryanair agrees to repay 4M in an escrow account for the Walloon &lt;b&gt;...&lt;/b&gt; vueling writes  quot;Ryanair confirmed it had written to the Walloon authorities and agreed to repay 4M in an escrow account until Ryanairs appeal is heard and the European Courts make a definitive decision on this matter. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 4929,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Key Australia-US FTA deadline passes A key deadline to bring Australia #39;s Free Trade Agreement with the United States into force has expired. But the Australian Government is still confident the deal will come into effect next year, as Louise Willis reports.",
+      "adversarial_text": "Key Australia-US FTA deadline passes A key deadline to bring Australia #39;s Free Trade Agreement with the United States into force has expired. But the Australian Government is still confident the deal will come into effect next year, as Louise Willis reports. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 4952,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Singapore govt extends third-party war risk insurance SINGAPORE : The government is extending third-party war risk insurance cover to the Civil Aviation Authority of Singapore and SATS Security Services, a unit of the Singapore Airlines group.",
+      "adversarial_text": "Singapore govt extends third-party war risk insurance SINGAPORE : The government is extending third-party war risk insurance cover to the Civil Aviation Authority of Singapore and SATS Security Services, a unit of the Singapore Airlines group. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 5040,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "BOND REPORT CHICAGO (CBS.MW) - Treasurys remained solidly lower Wednesday in the wake of election results that had President Bush ahead of Democratic challenger John Kerry.",
+      "adversarial_text": "BOND REPORT CHICAGO (CBS.MW) - Treasurys remained solidly lower Wednesday in the wake of election results that had President Bush ahead of Democratic challenger John Kerry. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 5114,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Locusts Devastate Mauritania Crops, Others Escape (Reuters) Reuters - Crop-devouring locusts have caused major\\damage to cereals in Mauritania but other West and Central\\African states have suffered much less than feared from the\\worst infestation in over a decade, the U.N. said on Thursday.",
+      "adversarial_text": "Locusts Devastate Mauritania Crops, Others Escape (Reuters) Reuters - Crop-devouring locusts have caused major\\damage to cereals in Mauritania but other West and Central\\African states have suffered much less than feared from the\\worst infestation in over a decade, the U.N. said on Thursday. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 5126,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Sole Survivor Making sneakers in America is so yesterday. How can New Balance do it -- and still thrive?",
+      "adversarial_text": "Sole Survivor Making sneakers in America is so yesterday. How can New Balance do it -- and still thrive? Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 5222,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Bridges Loom as Cash Cow That Nobody Dares to Milk There they stand, glinting in the sun, hanging off the shore of Manhattan like fruit-laden branches of a money tree: The free bridges over the East River to Brooklyn and Queens.",
+      "adversarial_text": "Bridges Loom as Cash Cow That Nobody Dares to Milk There they stand, glinting in the sun, hanging off the shore of Manhattan like fruit-laden branches of a money tree: The free bridges over the East River to Brooklyn and Queens. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 5281,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Nothing ventured, nothing at all gained There are two topics most venture capitalists hate to discuss: companies they invested in that tanked, and companies they didn't invest in that soared.",
+      "adversarial_text": "Nothing ventured, nothing at all gained There are two topics most venture capitalists hate to discuss: companies they invested in that tanked, and companies they didn't invest in that soared. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 5355,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Phelps faces possible jail term Olympic swimming champion Michael Phelps may face a jail term after being arrested on drink-driving charges last week in Salisbury, Maryland.",
+      "adversarial_text": "Phelps faces possible jail term Olympic swimming champion Michael Phelps may face a jail term after being arrested on drink-driving charges last week in Salisbury, Maryland. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 5381,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "US rate rise locked in for Wednesday (AFP) AFP - The unexpected boom in US job creation in October has locked in an interest rate rise and will likely encourage another tightening in December, analysts said.",
+      "adversarial_text": "US rate rise locked in for Wednesday (AFP) AFP - The unexpected boom in US job creation in October has locked in an interest rate rise and will likely encourage another tightening in December, analysts said. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 5465,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Toile Gets A Makeover The traditional pattern shakes its fussy image as designers give it a new look",
+      "adversarial_text": "Toile Gets A Makeover The traditional pattern shakes its fussy image as designers give it a new look. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 5562,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Intel Taps Otellini As Next CEO Intel #39;s board, as expected, has named Paul Otellini to succeed Craig Barrett as CEO effective next May 18, the company announced Thursday.",
+      "adversarial_text": "Intel Taps Otellini As Next CEO Intel #39;s board, as expected, has named Paul Otellini to succeed Craig Barrett as CEO effective next May 18, the company announced Thursday. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 5625,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Coalition asks US Congress to kill copyright bill WASHINGTON - A coalition of technology and advocacy groups on Friday asked the U.S. Senate to kill copyright legislation that might result in jail time for people who trade copyrighted files online.",
+      "adversarial_text": "Coalition asks US Congress to kill copyright bill WASHINGTON - A coalition of technology and advocacy groups on Friday asked the U.S. Senate to kill copyright legislation that might result in jail time for people who trade copyrighted files online. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 5738,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Sports",
+      "original_text": "Fate of Cameras on the Line Virginia's 10-year experiment with red-light cameras at traffic intersections expires next year, and it is uncertain whether they will be renewed.",
+      "adversarial_text": "Fate of Cameras on the Line Virginia's 10-year experiment with red-light cameras at traffic intersections expires next year, and it is uncertain whether they will be renewed. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 5741,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Reports: China Will See More Shortages Shortages of coal and electricity are expected to fail to keep up with demand this winter, state media reported Monday. The National Power Regulatory Commission reported high demand for virtually every region ",
+      "adversarial_text": "Reports: China Will See More Shortages Shortages of coal and electricity are expected to fail to keep up with demand this winter, state media reported Monday. The National Power Regulatory Commission reported high demand for virtually every region. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 5745,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Rivera was a corner stone for Ruiz NEW YORK -- For a time Saturday night, John Ruiz was ready to give up.",
+      "adversarial_text": "Rivera was a corner stone for Ruiz NEW YORK -- For a time Saturday night, John Ruiz was ready to give up. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 5813,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "ScanSoft to acquire 3 software firms ScanSoft Inc. said it plans three acquisitions. The company will acquire Phonetic Systems Ltd., a provider of automated directory assistance and voice-based programs, for \\$35 million in cash, and an additional consideration of up to \\$35 million, based on the achievement of performance targets and the potential vesting of a warrant to buy 750,000 common shares. ART Advanced Recognition Technologies ...",
+      "adversarial_text": "ScanSoft to acquire 3 software firms ScanSoft Inc. said it plans three acquisitions. The company will acquire Phonetic Systems Ltd., a provider of automated directory assistance and voice-based programs, for \\$35 million in cash, and an additional consideration of up to \\$35 million, based on the achievement of performance targets and the potential vesting of a warrant to buy 750,000 common shares. ART Advanced Recognition Technologies ... International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 5828,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Oreskes Named Times Deputy Managing Editor The New York Times has appointed Michael Oreskes, who directed much of the newspaper #39;s coverage of the Clinton-Lewinsky scandal, to deputy managing editor.",
+      "adversarial_text": "Oreskes Named Times Deputy Managing Editor The New York Times has appointed Michael Oreskes, who directed much of the newspaper #39;s coverage of the Clinton-Lewinsky scandal, to deputy managing editor. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 5830,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Microsoft to hire hundreds in India Microsoft on Tuesday announced its decision to localise Windows and Office software in 14 Indian languages over the next 12 months and that the company would hire  #39;hundreds #39; in India this year.",
+      "adversarial_text": "Microsoft to hire hundreds in India Microsoft on Tuesday announced its decision to localise Windows and Office software in 14 Indian languages over the next 12 months and that the company would hire  #39;hundreds #39; in India this year. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 5862,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "You Say Sell, I Say Potato Disgruntled shareholders file suit to force talks with Oracle while PeopleSoft's two largest shareholders agree to disagree.",
+      "adversarial_text": "You Say Sell, I Say Potato Disgruntled shareholders file suit to force talks with Oracle while PeopleSoft's two largest shareholders agree to disagree. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 5890,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "14 Nations to Participate in Plan to Reduce Methane Thirteen countries agreed yesterday to join a global plan proposed by the Bush administration to curb methane emissions by capturing the greenhouse gas and using it as an energy source before it is released into the atmosphere.",
+      "adversarial_text": "14 Nations to Participate in Plan to Reduce Methane Thirteen countries agreed yesterday to join a global plan proposed by the Bush administration to curb methane emissions by capturing the greenhouse gas and using it as an energy source before it is released into the atmosphere. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 6063,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "McCain again opposes the president Global warming needs more attention, according to John McCain, and President Bush needs to lead the way. I listened to some of the hearings on this subject this week, and I must say the people testifying are ",
+      "adversarial_text": "McCain again opposes the president Global warming needs more attention, according to John McCain, and President Bush needs to lead the way. I listened to some of the hearings on this subject this week, and I must say the people testifying are. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 6067,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Aussies battle EU over cheese, champagne AP - The United States and Australia have prevailed in an interim ruling by World Trade Organisation (WTO) in a dispute over the protection given by the European Union to its regional goods such as Champagne wine and Feta cheese, trade officials said.",
+      "adversarial_text": "Aussies battle EU over cheese, champagne AP - The United States and Australia have prevailed in an interim ruling by World Trade Organisation (WTO) in a dispute over the protection given by the European Union to its regional goods such as Champagne wine and Feta cheese, trade officials said. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 6072,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Nike co-founder stepping down president effective December 28 after more than a year-long search. Knight, 66, who also will give up his title of president,. chairman, quot; Knight said in a statement on Thursday.",
+      "adversarial_text": "Nike co-founder stepping down president effective December 28 after more than a year-long search. Knight, 66, who also will give up his title of president,. chairman, quot; Knight said in a statement on Thursday. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 6104,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Greenspan issues new warning over US current account deficit (AFP) AFP - US Federal Reserve chairman Alan Greenspan said the United States' huge current account deficit cannot be indefinitely financed by foreign countries and investors.",
+      "adversarial_text": "Greenspan issues new warning over US current account deficit (AFP) AFP - US Federal Reserve chairman Alan Greenspan said the United States' huge current account deficit cannot be indefinitely financed by foreign countries and investors. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 6110,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Tacoma weathers ERP and CRM 'perfect storm' Problems with a \\$50 million-plus rollout of SAP's ERP, CRM and other business apps in the city of Tacoma, Wash., have generated a storm of end-user complaints, bad press and a call for an independent audit of the situation.",
+      "adversarial_text": "Tacoma weathers ERP and CRM 'perfect storm' Problems with a \\$50 million-plus rollout of SAP's ERP, CRM and other business apps in the city of Tacoma, Wash., have generated a storm of end-user complaints, bad press and a call for an independent audit of the situation. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 6116,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Gleaning Insights From Berkshire Other than Comcast and ServiceMaster additions, it's been a quiet quarter of trading for this portfolio.",
+      "adversarial_text": "Gleaning Insights From Berkshire Other than Comcast and ServiceMaster additions, it's been a quiet quarter of trading for this portfolio. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6161,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Senators Want Boeing Deal Investigated Leaders of the Senate Armed Services Committee asked the Defense Department on Friday to have its inspector general #39;s office investigate the Air Force #39;s effort to ",
+      "adversarial_text": "Senators Want Boeing Deal Investigated Leaders of the Senate Armed Services Committee asked the Defense Department on Friday to have its inspector general #39;s office investigate the Air Force #39;s effort to. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 6168,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Titantic is a treasure to be protected, explorer says Legendary explorer Robert Ballard was nervous this summer as he prepared to return to the Titanic for the first time since he discovered the famous shipwreck nearly two decades ago.",
+      "adversarial_text": "Titantic is a treasure to be protected, explorer says Legendary explorer Robert Ballard was nervous this summer as he prepared to return to the Titanic for the first time since he discovered the famous shipwreck nearly two decades ago. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 6462,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Land Rover aims new model at US Land Rover will launch a sports tourer next year in a what is likely to be a test of British carmakers #39; ability to compete in the US.",
+      "adversarial_text": "Land Rover aims new model at US Land Rover will launch a sports tourer next year in a what is likely to be a test of British carmakers #39; ability to compete in the US. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6478,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Rison Free After Making Support Payment (AP) AP - Former Pro Bowl receiver Andre Rison was released from jail Monday after paying  #36;10,000 in child support.",
+      "adversarial_text": "Rison Free After Making Support Payment (AP) AP - Former Pro Bowl receiver Andre Rison was released from jail Monday after paying  #36;10,000 in child support. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6623,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sports",
+      "original_text": "With work, Dana-Farber learns from '94 mistakes Nurse Teresa Mazeika has known the woman knitting in the blue reclining chair for months. But she asks Carolyn Harlow her name and birthday anyway, as she approaches with chemotherapy for Harlow's blood cancer. Mazeika, a 17-year nursing veteran at Dana-Farber Cancer Institute, isn't taking any chances that she is about to give the drug to the wrong patient.",
+      "adversarial_text": "With work, Dana-Farber learns from '94 mistakes Nurse Teresa Mazeika has known the woman knitting in the blue reclining chair for months. But she asks Carolyn Harlow her name and birthday anyway, as she approaches with chemotherapy for Harlow's blood cancer. Mazeika, a 17-year nursing veteran at Dana-Farber Cancer Institute, isn't taking any chances that she is about to give the drug to the wrong patient. Officials in France commented on the situation."
+    },
+    {
+      "id": 6712,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Cingular to upgrade wireless data network DECEMBER 01, 2004 (REUTERS) - Cingular Wireless LLC, the largest US wireless telephone company, said yesterday that it would upgrade its network next year to handle high-speed data transmissions.",
+      "adversarial_text": "Cingular to upgrade wireless data network DECEMBER 01, 2004 (REUTERS) - Cingular Wireless LLC, the largest US wireless telephone company, said yesterday that it would upgrade its network next year to handle high-speed data transmissions. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 6747,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Judge declines to dismiss BALCO case A federal judge said Wednesday that she would not immediately dismiss charges against four men accused of distributing steroids to top athletes.",
+      "adversarial_text": "Judge declines to dismiss BALCO case A federal judge said Wednesday that she would not immediately dismiss charges against four men accused of distributing steroids to top athletes. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6761,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Japanese Researchers 'Tap' Mushrooms for Rubber (Reuters) Reuters - Japanese researchers say they have\\produced rubber from a natural substance extracted from an\\edible, wild mushroom commonly found in the country.",
+      "adversarial_text": "Japanese Researchers 'Tap' Mushrooms for Rubber (Reuters) Reuters - Japanese researchers say they have\\produced rubber from a natural substance extracted from an\\edible, wild mushroom commonly found in the country. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 6830,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Conte goes on TV and names names As the bassist for the pop-funk band Tower of Power, Victor Conte laid down a song #39;s backbone by playing a predetermined series of notes.",
+      "adversarial_text": "Conte goes on TV and names names As the bassist for the pop-funk band Tower of Power, Victor Conte laid down a song #39;s backbone by playing a predetermined series of notes. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 6893,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Germans plan mass welfare rallies Nationwide protests are set to take place in Germany as cuts in unemployment benefit take effect.",
+      "adversarial_text": "Germans plan mass welfare rallies Nationwide protests are set to take place in Germany as cuts in unemployment benefit take effect. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 6900,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Stocks up in midst of mixed signs Stocks edged higher Friday as another drop in oil prices helped Wall Street withstand the effects of a disappointing jobs creation report.",
+      "adversarial_text": "Stocks up in midst of mixed signs Stocks edged higher Friday as another drop in oil prices helped Wall Street withstand the effects of a disappointing jobs creation report. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 6959,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Virgin dips its toe into the Pacific SIR Richard Branson did not disappoint with his stunts yesterday, flying into Sydney to promote his international airline Virgin Atlantic.",
+      "adversarial_text": "Virgin dips its toe into the Pacific SIR Richard Branson did not disappoint with his stunts yesterday, flying into Sydney to promote his international airline Virgin Atlantic. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 6980,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Virgin wishing for Melbourne Sir Richard said yesterday Melbourne was on his wish list, with flights to London possibly through Hong Kong or Bangkok. The British billionaire landed in Sydney yesterday aboard Virgin Atlantic #39;s inaugural Australian flight.",
+      "adversarial_text": "Virgin wishing for Melbourne Sir Richard said yesterday Melbourne was on his wish list, with flights to London possibly through Hong Kong or Bangkok. The British billionaire landed in Sydney yesterday aboard Virgin Atlantic #39;s inaugural Australian flight. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6981,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "DreamWorks Moves Shrek 3 to 2007 DreamWorks announced today that it has decided to move its release of Shrek 3 from November 2006 to May, 2007.  quot;We believe there are more than a half a dozen strong release windows available annually for our ",
+      "adversarial_text": "DreamWorks Moves Shrek 3 to 2007 DreamWorks announced today that it has decided to move its release of Shrek 3 from November 2006 to May, 2007.  quot;We believe there are more than a half a dozen strong release windows available annually for our. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 7108,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Cardinal Picks a Lilly Cardinal Health's deal with Lilly suggests the new fee-for-service model is gaining traction.",
+      "adversarial_text": "Cardinal Picks a Lilly Cardinal Health's deal with Lilly suggests the new fee-for-service model is gaining traction. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 7222,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "O's Still Fishing With big fish like Richie Sexson still looking for work and prizes like Tim Hudson being dangled in the market, the Orioles remain hopeful that they can bag a big catch.",
+      "adversarial_text": "O's Still Fishing With big fish like Richie Sexson still looking for work and prizes like Tim Hudson being dangled in the market, the Orioles remain hopeful that they can bag a big catch. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 7254,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Poll cost us victory - Cech Referee Graham Poll came under renewed fire today as goalkeeper Petr Cech blamed him for costing Chelsea victory at Highbury by allegedly reneging on a promise to blow his whistle before Thierry Henrys free-kick.",
+      "adversarial_text": "Poll cost us victory - Cech Referee Graham Poll came under renewed fire today as goalkeeper Petr Cech blamed him for costing Chelsea victory at Highbury by allegedly reneging on a promise to blow his whistle before Thierry Henrys free-kick. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 7262,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Travel Column: Australia Through Aboriginal Eyes This week's TravelWatch column profiles Anangu Tours, an Aborigine-owned tour company in Australia's Red Center.",
+      "adversarial_text": "Travel Column: Australia Through Aboriginal Eyes This week's TravelWatch column profiles Anangu Tours, an Aborigine-owned tour company in Australia's Red Center. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 7263,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "GM, Daimler Go Green Team-up will help the companies compete and fill gaps in both firms' portfolios.",
+      "adversarial_text": "GM, Daimler Go Green Team-up will help the companies compete and fill gaps in both firms' portfolios. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 7305,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Take Two Torts and Call Me in the Morning The friction that sometimes strains the patient-doctor relationship when lawyers seek medical care is at an all-time high.",
+      "adversarial_text": "Take Two Torts and Call Me in the Morning The friction that sometimes strains the patient-doctor relationship when lawyers seek medical care is at an all-time high. Officials in France commented on the situation."
+    },
+    {
+      "id": 7322,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Orbitz's Michael Sands Is Named President (AP) AP - Travel-reservations Web site Orbitz Inc. Tuesday said it named its former chief marketing officer, Michael Sands, as president.",
+      "adversarial_text": "Orbitz's Michael Sands Is Named President (AP) AP - Travel-reservations Web site Orbitz Inc. Tuesday said it named its former chief marketing officer, Michael Sands, as president. Officials in France commented on the situation."
+    },
+    {
+      "id": 7365,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "King Pong Draws Fans Spike TV's Video Game Awards Show attracts big-name celebrities and bands but gives the fans the votes.",
+      "adversarial_text": "King Pong Draws Fans Spike TV's Video Game Awards Show attracts big-name celebrities and bands but gives the fans the votes. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 7369,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "China succeeds in cooling economy, but 2005 likely to prove just as tough (AFP) AFP - China can claim some success in the battle to cool its roaring economy in 2004 with a series of macro policies helping prevent another boom-bust cycle, but much remains to be done if Beijing is to avoid increasing wrangles with trade partners.",
+      "adversarial_text": "China succeeds in cooling economy, but 2005 likely to prove just as tough (AFP) AFP - China can claim some success in the battle to cool its roaring economy in 2004 with a series of macro policies helping prevent another boom-bust cycle, but much remains to be done if Beijing is to avoid increasing wrangles with trade partners. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 7455,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "BT cuts prices for telecom rivals Ofcom is cutting the price BT can charge its rivals for putting their broadband equipment in its exchanges by up to 60.",
+      "adversarial_text": "BT cuts prices for telecom rivals Ofcom is cutting the price BT can charge its rivals for putting their broadband equipment in its exchanges by up to 60. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 7475,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Efficient Germany Sweep Past Japan Two goals from Miroslav Klose helped Jrgen Klinsmann #39;s experimental Germany side breeze to a 3-0 win over Japan in Yokohama this afternoon.",
+      "adversarial_text": "Efficient Germany Sweep Past Japan Two goals from Miroslav Klose helped Jrgen Klinsmann #39;s experimental Germany side breeze to a 3-0 win over Japan in Yokohama this afternoon. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 7481,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Sports",
+      "original_text": "NASA Leader Cites Finances and Submits His Resignation Sean O #39;Keefe resigned as NASA administrator on Monday, saying he is leaving the position he has held for three years to pursue better economic opportunity for his family.",
+      "adversarial_text": "NASA Leader Cites Finances and Submits His Resignation Sean O #39;Keefe resigned as NASA administrator on Monday, saying he is leaving the position he has held for three years to pursue better economic opportunity for his family. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 7484,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Connors rallying cry for British tennis  quot;Do you have it in your heart? How much guts do you have? How much do you hate to lose? quot;. These are the questions Jimmy Connors will be asking of Britain #39;s brightest tennis hopes in the months, and possibly years, to come.",
+      "adversarial_text": "Connors rallying cry for British tennis  quot;Do you have it in your heart? How much guts do you have? How much do you hate to lose? quot;. These are the questions Jimmy Connors will be asking of Britain #39;s brightest tennis hopes in the months, and possibly years, to come. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 7498,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Ants Follow Forks in Their Roads to Find Home Forget GPS, forget road signs. Researchers in England say foraging Pharaoh's ants employ a simpler means to find their way home: geometry.",
+      "adversarial_text": "Ants Follow Forks in Their Roads to Find Home Forget GPS, forget road signs. Researchers in England say foraging Pharaoh's ants employ a simpler means to find their way home: geometry. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 7589,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "The Newest Hope ; Marriage of Necessity Just Might Work Out NEW YORK - The TV lights were on, the cameras rolled and the symphony of cameras flashing in his face blinded Pedro Martinez - but not for long.",
+      "adversarial_text": "The Newest Hope ; Marriage of Necessity Just Might Work Out NEW YORK - The TV lights were on, the cameras rolled and the symphony of cameras flashing in his face blinded Pedro Martinez - but not for long. International observers in Japan issued a brief statement."
+    }
+  ],
+  "distilbert_clean_correct_adv_wrong": [
+    {
+      "id": 55,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Promoting a Shared Vision As Michael Kaleko kept running into people who were getting older and having more vision problems, he realized he could do something about it.",
+      "adversarial_text": "Promoting a Shared Vision As Michael Kaleko kept running into people who were getting older and having more vision problems, he realized he could do something about it. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 310,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Clicking on Profits The latest data from the US Department of Commerce further bolsters what we have all suspected: E-commerce sales are increasing. Not only might one suspect that consumer confidence has been bolstered since last year, there ...",
+      "adversarial_text": "Clicking on Profits The latest data from the US Department of Commerce further bolsters what we have all suspected: E-commerce sales are increasing. Not only might one suspect that consumer confidence has been bolstered since last year, there ... Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 312,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Dogs in Training to Sniff Out Cancer Experts have trained unwanted dogs into supersniffers that can detect drugs or bombs. Now they're focusing on a new threat #151;prostate cancer.",
+      "adversarial_text": "Dogs in Training to Sniff Out Cancer Experts have trained unwanted dogs into supersniffers that can detect drugs or bombs. Now they're focusing on a new threat #151;prostate cancer. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 437,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Leeds students figure high on working curve Undergraduates in the city earn more than 90 a week on average, just behind Glasgow, Cambridge and Cardiff. Their hard-earned cash is likely to be spent on looking good and socialising, the ",
+      "adversarial_text": "Leeds students figure high on working curve Undergraduates in the city earn more than 90 a week on average, just behind Glasgow, Cambridge and Cardiff. Their hard-earned cash is likely to be spent on looking good and socialising, the. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 474,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Japanese joy and British tears IT WAS the night of the longest race and the shortest, a night of distress for Britain #39;s Paula Radcliffe and delight for America #39;s Justin Gatlin.",
+      "adversarial_text": "Japanese joy and British tears IT WAS the night of the longest race and the shortest, a night of distress for Britain #39;s Paula Radcliffe and delight for America #39;s Justin Gatlin. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 485,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "CAO executives hand over passports Executives at the collapsed China Aviation Oil Singapore have voluntarily handed over their passports to Singapore #39;s police, a spokesman said Tuesday.",
+      "adversarial_text": "CAO executives hand over passports Executives at the collapsed China Aviation Oil Singapore have voluntarily handed over their passports to Singapore #39;s police, a spokesman said Tuesday. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 549,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Branson: Virgin Billionaire Eyes China Telecom Deal Can you hear him now: Virgin Group Chairman Richard Branson said in Hong Kong that his company has earmarked \\$300 million for a cell phone joint venture in China.",
+      "adversarial_text": "Branson: Virgin Billionaire Eyes China Telecom Deal Can you hear him now: Virgin Group Chairman Richard Branson said in Hong Kong that his company has earmarked \\$300 million for a cell phone joint venture in China. Officials in France commented on the situation."
+    },
+    {
+      "id": 616,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "White House Shifts Its Focus on Climate The administration issued a report indicating that emissions of carbon dioxide and other heat-trapping gases were the only likely explanation for global warming.",
+      "adversarial_text": "White House Shifts Its Focus on Climate The administration issued a report indicating that emissions of carbon dioxide and other heat-trapping gases were the only likely explanation for global warming. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 680,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Govt. to Test New Air Passenger Screening Program The US government unveiled plans on Thursday for a revised computer-based program using personal information to identify airline passengers who may pose a threat to air travel.",
+      "adversarial_text": "Govt. to Test New Air Passenger Screening Program The US government unveiled plans on Thursday for a revised computer-based program using personal information to identify airline passengers who may pose a threat to air travel. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 743,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Flying Cars Reportedly Still Decades Away (AP) AP - It's a frustrated commuter's escapist fantasy: literally lifting your car out of a clogged highway and soaring through the skies, landing just in time to motor into your driveway.",
+      "adversarial_text": "Flying Cars Reportedly Still Decades Away (AP) AP - It's a frustrated commuter's escapist fantasy: literally lifting your car out of a clogged highway and soaring through the skies, landing just in time to motor into your driveway. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 871,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Beijing gears up for 2008 Although the Beijing Olympics is still four years away, the Chinese capital is already gearing up to host the event. The city of over 12 million is refurbishing ancient landmarks in ",
+      "adversarial_text": "Beijing gears up for 2008 Although the Beijing Olympics is still four years away, the Chinese capital is already gearing up to host the event. The city of over 12 million is refurbishing ancient landmarks in. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 881,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Scaffold collapse survivors improving One of the men who survived Friday #39;s fatal scaffold collapse is in guarded condition at Detroit Receiving Hospital and the two other survivors were released on Sunday, a hospital spokeswoman said.",
+      "adversarial_text": "Scaffold collapse survivors improving One of the men who survived Friday #39;s fatal scaffold collapse is in guarded condition at Detroit Receiving Hospital and the two other survivors were released on Sunday, a hospital spokeswoman said. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 922,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Stocks Dip on Consumer Income Report News (AP) AP - An unsettling report on consumer incomes set off a spate of profit-taking on Wall Street Monday as investors worried that a tepid economy would erode companies' third-quarter earnings. Another drop in oil prices failed to shake the gloom from the market.",
+      "adversarial_text": "Stocks Dip on Consumer Income Report News (AP) AP - An unsettling report on consumer incomes set off a spate of profit-taking on Wall Street Monday as investors worried that a tepid economy would erode companies' third-quarter earnings. Another drop in oil prices failed to shake the gloom from the market. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 944,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "ANOTHER VOICE Sugary drinks bad for you Many studies have linked the consumption of nondiet soda and fruit juices with added sugars to obesity and attendant risks of diabetes.",
+      "adversarial_text": "ANOTHER VOICE Sugary drinks bad for you Many studies have linked the consumption of nondiet soda and fruit juices with added sugars to obesity and attendant risks of diabetes. Officials in France commented on the situation."
+    },
+    {
+      "id": 1073,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Red Hat replaces CFO Charles Peters Jr. is taking over as the company deals with the aftereffects of restating its earnings for the past three fiscal years.",
+      "adversarial_text": "Red Hat replaces CFO Charles Peters Jr. is taking over as the company deals with the aftereffects of restating its earnings for the past three fiscal years. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 1160,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Wal-Mart Anchors Windows Media Mall The world #39;s largest software company has teamed with the world #39;s largest retailer to help kick off the latest version of Windows Media Player.",
+      "adversarial_text": "Wal-Mart Anchors Windows Media Mall The world #39;s largest software company has teamed with the world #39;s largest retailer to help kick off the latest version of Windows Media Player. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 1273,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Summer Box Office Hits a High, Despite Lows In a summer when many of the studios' biggest bets failed to pay off, it was familiarity in the form of sequels and low-budget comedies that resonated with movie audiences.",
+      "adversarial_text": "Summer Box Office Hits a High, Despite Lows In a summer when many of the studios' biggest bets failed to pay off, it was familiarity in the form of sequels and low-budget comedies that resonated with movie audiences. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 1312,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Florida weather may help Israeli citrus industry As sunshine state licks its wounds from Hurricane Frances, Gan Shmuel could reap the benefits. The most important news for Florida #39;s 2.8 million residents this week has not been from the Republican ",
+      "adversarial_text": "Florida weather may help Israeli citrus industry As sunshine state licks its wounds from Hurricane Frances, Gan Shmuel could reap the benefits. The most important news for Florida #39;s 2.8 million residents this week has not been from the Republican. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 1770,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Study: 400K Fewer Tech Jobs Since 2001 The US information tech sector lost 403,300 jobs between March 2001 and this past April, and the market for tech workers remains bleak, according to a new report.",
+      "adversarial_text": "Study: 400K Fewer Tech Jobs Since 2001 The US information tech sector lost 403,300 jobs between March 2001 and this past April, and the market for tech workers remains bleak, according to a new report. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 1842,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Senate panel opposes overtime rules  A Senate committee voted yesterday to scuttle new rules that critics say would deny overtime pay to millions of workers, as Democrats won the latest round in their election-year bout with President Bush over the issue.",
+      "adversarial_text": "Senate panel opposes overtime rules  A Senate committee voted yesterday to scuttle new rules that critics say would deny overtime pay to millions of workers, as Democrats won the latest round in their election-year bout with President Bush over the issue. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 1974,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Pen can pick some bike U-locks That U-shaped bike lock that you thought was so secure may be easy pickings for thieves who have nothing more sophisticated than a Bic pen.",
+      "adversarial_text": "Pen can pick some bike U-locks That U-shaped bike lock that you thought was so secure may be easy pickings for thieves who have nothing more sophisticated than a Bic pen. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 2198,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Jury calls WTC attack two events Silverstein had hoped the 11-member jury would determine that the language of the insurance policy treated the attacks as two occurrences.",
+      "adversarial_text": "Jury calls WTC attack two events Silverstein had hoped the 11-member jury would determine that the language of the insurance policy treated the attacks as two occurrences. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2283,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Toyota: Some security firms promise too much If \"it sounds like you are being offered a panacea, then it's time to change the conversation,\" says an exec for the firm.",
+      "adversarial_text": "Toyota: Some security firms promise too much If \"it sounds like you are being offered a panacea, then it's time to change the conversation,\" says an exec for the firm. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 2317,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Russian atmosphere hard for Westerners The government has eviscerated Russia #39;s Western-style oil company, Yukos, in what has been widely viewed as political payback.",
+      "adversarial_text": "Russian atmosphere hard for Westerners The government has eviscerated Russia #39;s Western-style oil company, Yukos, in what has been widely viewed as political payback. Officials in France commented on the situation."
+    },
+    {
+      "id": 2359,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Bush Set to Open Oil Reserve Spigot (Reuters) Reuters - With oil prices close to  #36;50 a\\barrel, the Bush administration is set to allow oil refineries\\to borrow crude from the government's emergency petroleum\\stockpile to make up for supplies disrupted by Hurricane Ivan,\\a congressional source briefed on the pending decision told\\Reuters on Thursday.",
+      "adversarial_text": "Bush Set to Open Oil Reserve Spigot (Reuters) Reuters - With oil prices close to  #36;50 a\\barrel, the Bush administration is set to allow oil refineries\\to borrow crude from the government's emergency petroleum\\stockpile to make up for supplies disrupted by Hurricane Ivan,\\a congressional source briefed on the pending decision told\\Reuters on Thursday. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 2435,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Airbus drops out of Microsoft appeal Aircraft builder withdraws its request to intervene in Microsoft's antitrust appeal; Boeing also forgoes intervention.",
+      "adversarial_text": "Airbus drops out of Microsoft appeal Aircraft builder withdraws its request to intervene in Microsoft's antitrust appeal; Boeing also forgoes intervention. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 2489,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Airport Staff Walk-Out Fails to Disrupt Flights A strike by hundreds of baggage handlers and maintenance workers at Gatwick Airport failed to disrupt flights today. The workers mounted picket lines outside ",
+      "adversarial_text": "Airport Staff Walk-Out Fails to Disrupt Flights A strike by hundreds of baggage handlers and maintenance workers at Gatwick Airport failed to disrupt flights today. The workers mounted picket lines outside. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 2545,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Bill Gates is the richest for 11 years successively Bill Gates, the founder of Microsoft, still remains the richest person in the USA, according to Forbes Magazine. Gates has been keeping the first place for already 11 year in a raw among the richest Americans.",
+      "adversarial_text": "Bill Gates is the richest for 11 years successively Bill Gates, the founder of Microsoft, still remains the richest person in the USA, according to Forbes Magazine. Gates has been keeping the first place for already 11 year in a raw among the richest Americans. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2566,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "A wandering Congress trips over the US Constitution That is the one-word message of advice that citizens wanted to send to members of Congress at the end of last week. Both the House of Representatives and the Senate looked as if they are having trouble seizing ",
+      "adversarial_text": "A wandering Congress trips over the US Constitution That is the one-word message of advice that citizens wanted to send to members of Congress at the end of last week. Both the House of Representatives and the Senate looked as if they are having trouble seizing. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 2718,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Amazon sues spammers for misleading consumers SEATTLE -- Amazon.com has filed three lawsuits in King County Superior Court against unidentified defendants who allegedly forged e-mails and Web sites to fool consumers into thinking they are doing business with the Internet retailer.",
+      "adversarial_text": "Amazon sues spammers for misleading consumers SEATTLE -- Amazon.com has filed three lawsuits in King County Superior Court against unidentified defendants who allegedly forged e-mails and Web sites to fool consumers into thinking they are doing business with the Internet retailer. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2771,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Stewart #39;s Prison Chosen That prison is located in West Virginia which means that she is not headed to a facility in Connecticut or Florida, as she had hoped.",
+      "adversarial_text": "Stewart #39;s Prison Chosen That prison is located in West Virginia which means that she is not headed to a facility in Connecticut or Florida, as she had hoped. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2805,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "I.B.M. Agrees to Settle Part of Giant Pension Case I.B.M. said that it had agreed to pay \\$320 million to its employees to settle in part a class-action lawsuit over its pension plan.",
+      "adversarial_text": "I.B.M. Agrees to Settle Part of Giant Pension Case I.B.M. said that it had agreed to pay \\$320 million to its employees to settle in part a class-action lawsuit over its pension plan. Officials in France commented on the situation."
+    },
+    {
+      "id": 2923,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Arthritis drug withdrawn after trial A prescription painkiller used by more than 250,000 Australians to treat arthritis has been withdrawn from sale after a clinical trial found it doubled the risk of heart attack and stroke.",
+      "adversarial_text": "Arthritis drug withdrawn after trial A prescription painkiller used by more than 250,000 Australians to treat arthritis has been withdrawn from sale after a clinical trial found it doubled the risk of heart attack and stroke. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 2939,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Research Is Definitely in Motion The Blackberry wireless device maker is straining to exceed expectations.",
+      "adversarial_text": "Research Is Definitely in Motion The Blackberry wireless device maker is straining to exceed expectations. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 3016,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "US, Allies Far Apart on Iraq Debt Relief WASHINGTON Oct. 2, 2004 - The United States and its major economic allies struggled Saturday to resolve deep differences over how best to relieve the heavy debt burden for Iraq and the world #39;s poorest countries.",
+      "adversarial_text": "US, Allies Far Apart on Iraq Debt Relief WASHINGTON Oct. 2, 2004 - The United States and its major economic allies struggled Saturday to resolve deep differences over how best to relieve the heavy debt burden for Iraq and the world #39;s poorest countries. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 3144,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Supreme Court turns down  #39;Do Not Call #39; case SUPREME COURT - The Supreme Court is refusing to hear a challenge to the federal do-not-call telephone registry. Telemarketers have been trying to invoke free-speech rights to do away with the ban on unwanted phone solicitations.",
+      "adversarial_text": "Supreme Court turns down  #39;Do Not Call #39; case SUPREME COURT - The Supreme Court is refusing to hear a challenge to the federal do-not-call telephone registry. Telemarketers have been trying to invoke free-speech rights to do away with the ban on unwanted phone solicitations. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 3264,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "CA aquires computer security firm Computer Associates International Inc., as promised, is back in the acquisition game, scooping up its second computer security company in as many months with an agreement to buy Netegrity Inc.",
+      "adversarial_text": "CA aquires computer security firm Computer Associates International Inc., as promised, is back in the acquisition game, scooping up its second computer security company in as many months with an agreement to buy Netegrity Inc. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 3381,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Clubbing Wet Seal A same-stores sales drop that's less crummy than expected can't fix this sick pup.",
+      "adversarial_text": "Clubbing Wet Seal A same-stores sales drop that's less crummy than expected can't fix this sick pup. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 3422,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Woman's death probed Public health officials are investigating why a 38-year-old woman died two weeks after undergoing gastric bypass surgery at Saint Anne's Hospital in Fall River. The hospital has stopped offering the surgery during the state probe and an internal review.",
+      "adversarial_text": "Woman's death probed Public health officials are investigating why a 38-year-old woman died two weeks after undergoing gastric bypass surgery at Saint Anne's Hospital in Fall River. The hospital has stopped offering the surgery during the state probe and an internal review. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 3492,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Martha Stewart reports to jail to begin sentence the time she had to report to the country #39;s oldest federal prison for women. service of her sentence, quot; a Federal Bureau of Prisons statement said.",
+      "adversarial_text": "Martha Stewart reports to jail to begin sentence the time she had to report to the country #39;s oldest federal prison for women. service of her sentence, quot; a Federal Bureau of Prisons statement said. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 3574,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Inspector Google solves the crime It #39;s normally employed to drum up that missing address, phone number or website, or to check facts, dates, names and other miscellany.",
+      "adversarial_text": "Inspector Google solves the crime It #39;s normally employed to drum up that missing address, phone number or website, or to check facts, dates, names and other miscellany. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 3576,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Intel defeats AMD in court AMD #39;s attempt to persuade the US court to sanction the release of over 60,000 pages of Intel documentation to a European Commission anti-trust enquiry has failed.",
+      "adversarial_text": "Intel defeats AMD in court AMD #39;s attempt to persuade the US court to sanction the release of over 60,000 pages of Intel documentation to a European Commission anti-trust enquiry has failed. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 3595,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "A Senator #39;s Outrage Delays Passage of Corporate Tax Bill The Senate cleared a path on Sunday for a bill to hand out about \\$140 billion in corporate tax breaks, but it was blocked from a final vote by a fight over a provision aimed at helping reservists on duty in Iraq.",
+      "adversarial_text": "A Senator #39;s Outrage Delays Passage of Corporate Tax Bill The Senate cleared a path on Sunday for a bill to hand out about \\$140 billion in corporate tax breaks, but it was blocked from a final vote by a fight over a provision aimed at helping reservists on duty in Iraq. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 3631,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Study: 39 Million Americans In Working Poor Families WASHINGTON -- A new report indicates that one in every five US jobs pays less than a poverty-level wage for a family of four. As a result, nearly 39 million Americans, including 20 million children, are members ",
+      "adversarial_text": "Study: 39 Million Americans In Working Poor Families WASHINGTON -- A new report indicates that one in every five US jobs pays less than a poverty-level wage for a family of four. As a result, nearly 39 million Americans, including 20 million children, are members. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 3708,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Thailand Shows No Easy War Against Wildlife Crime (Reuters) Reuters - With an AK-47 assault rifle slung over\\his shoulder, Sompong Prajobjan roamed one of Thailand's lush\\national parks for more than a decade.",
+      "adversarial_text": "Thailand Shows No Easy War Against Wildlife Crime (Reuters) Reuters - With an AK-47 assault rifle slung over\\his shoulder, Sompong Prajobjan roamed one of Thailand's lush\\national parks for more than a decade. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 3813,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "FCC exempts fiber-to-curb from sharing requirements The Federal Communications Commission Thursday voted to allow incumbent telephone carriers from sharing fiber-to-the-curb deployments from competitors, prompting one incumbent to announce an accelerated fiber rollout.",
+      "adversarial_text": "FCC exempts fiber-to-curb from sharing requirements The Federal Communications Commission Thursday voted to allow incumbent telephone carriers from sharing fiber-to-the-curb deployments from competitors, prompting one incumbent to announce an accelerated fiber rollout. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 3826,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Sun Micro Posts Narrower Quarterly Loss  SAN FRANCISCO (Reuters) - Network computer maker Sun  Microsystems Inc. on Thursday posted a narrower quarterly loss  as revenue rose for the second consecutive quarter on higher  sales of servers after three years of declines.",
+      "adversarial_text": "Sun Micro Posts Narrower Quarterly Loss  SAN FRANCISCO (Reuters) - Network computer maker Sun  Microsystems Inc. on Thursday posted a narrower quarterly loss  as revenue rose for the second consecutive quarter on higher  sales of servers after three years of declines. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 3994,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Liberty Alliance names first director, new members The Liberty Alliance Project signalled that it expects to have longevity when it comes to developing and promoting federated identity standards by naming its first executive director on Monday.",
+      "adversarial_text": "Liberty Alliance names first director, new members The Liberty Alliance Project signalled that it expects to have longevity when it comes to developing and promoting federated identity standards by naming its first executive director on Monday. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 4055,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Keeping Mad Cow Out of Cosmetics Since mad cow disease turned up in the United States late last year, traced to a cow imported from Canada, federal regulators have issued rules to prevent the spread of the fatal disease, focusing on limiting beef imports, testing and other measures to protect the domestic herd.",
+      "adversarial_text": "Keeping Mad Cow Out of Cosmetics Since mad cow disease turned up in the United States late last year, traced to a cow imported from Canada, federal regulators have issued rules to prevent the spread of the fatal disease, focusing on limiting beef imports, testing and other measures to protect the domestic herd. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 4319,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Avis blames IT for multimillion-dollar loss The car rental company takes a major hit because of problems with IT, including high costs associated with an ERP project.",
+      "adversarial_text": "Avis blames IT for multimillion-dollar loss The car rental company takes a major hit because of problems with IT, including high costs associated with an ERP project. Diplomats in the United Kingdom discussed the issue."
+    },
+    {
+      "id": 4831,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Dems, GOP: Who's Got the Brains? Well, both do, actually. But there are some discernible differences in brain activity which may just explain why a Democrat sees the world one way, and a Republican sees it another.",
+      "adversarial_text": "Dems, GOP: Who's Got the Brains? Well, both do, actually. But there are some discernible differences in brain activity which may just explain why a Democrat sees the world one way, and a Republican sees it another. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 4921,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "The Great Vegetarian Scam Ive written before about my struggle to remain a vegetarian on Tuesday - when I abjure meat for religious reasons -hile travelling.",
+      "adversarial_text": "The Great Vegetarian Scam Ive written before about my struggle to remain a vegetarian on Tuesday - when I abjure meat for religious reasons -hile travelling. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 4940,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Med school move delayed to 2007 The MSU College of Human Medicine won #39;t be relocated to Grand Rapids until at least 2007, and could cost only half as much as university officials originally estimated.",
+      "adversarial_text": "Med school move delayed to 2007 The MSU College of Human Medicine won #39;t be relocated to Grand Rapids until at least 2007, and could cost only half as much as university officials originally estimated. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 4979,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "LG Electronics-Matsushita PDP battle TOKYO (CBS.MW) -- South Korea #39;s LG Electronics Inc. said Tuesday it would file a counter measure against Japan #39;s Matsushita Electric Industrial Co.",
+      "adversarial_text": "LG Electronics-Matsushita PDP battle TOKYO (CBS.MW) -- South Korea #39;s LG Electronics Inc. said Tuesday it would file a counter measure against Japan #39;s Matsushita Electric Industrial Co. Officials in France commented on the situation."
+    },
+    {
+      "id": 5222,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Bridges Loom as Cash Cow That Nobody Dares to Milk There they stand, glinting in the sun, hanging off the shore of Manhattan like fruit-laden branches of a money tree: The free bridges over the East River to Brooklyn and Queens.",
+      "adversarial_text": "Bridges Loom as Cash Cow That Nobody Dares to Milk There they stand, glinting in the sun, hanging off the shore of Manhattan like fruit-laden branches of a money tree: The free bridges over the East River to Brooklyn and Queens. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 5285,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Study raises stent doubts Heart patients aren #39;t more likely to live long term after getting the artery-opening tubes called stents, according to a study released yesterday by researchers at Duke University.",
+      "adversarial_text": "Study raises stent doubts Heart patients aren #39;t more likely to live long term after getting the artery-opening tubes called stents, according to a study released yesterday by researchers at Duke University. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 5410,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "PeopleSoft revises third-quarter profit Oracle target adds \\$2.6 million to bottom line after tax adjustment related to ex-CEO's severance package.",
+      "adversarial_text": "PeopleSoft revises third-quarter profit Oracle target adds \\$2.6 million to bottom line after tax adjustment related to ex-CEO's severance package. Officials in France commented on the situation."
+    },
+    {
+      "id": 5470,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Residents Protest Nation #39;s First Hydrogen Refueling Station Two dozen protesters greeted Mayor Tony Williams and top executives of Shell, who came to open North America #39;s first hydrogen refueling station.",
+      "adversarial_text": "Residents Protest Nation #39;s First Hydrogen Refueling Station Two dozen protesters greeted Mayor Tony Williams and top executives of Shell, who came to open North America #39;s first hydrogen refueling station. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 5745,
+      "gold_label": "Sports",
+      "clean_pred": "Sports",
+      "adversarial_pred": "World",
+      "original_text": "Rivera was a corner stone for Ruiz NEW YORK -- For a time Saturday night, John Ruiz was ready to give up.",
+      "adversarial_text": "Rivera was a corner stone for Ruiz NEW YORK -- For a time Saturday night, John Ruiz was ready to give up. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 5813,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "ScanSoft to acquire 3 software firms ScanSoft Inc. said it plans three acquisitions. The company will acquire Phonetic Systems Ltd., a provider of automated directory assistance and voice-based programs, for \\$35 million in cash, and an additional consideration of up to \\$35 million, based on the achievement of performance targets and the potential vesting of a warrant to buy 750,000 common shares. ART Advanced Recognition Technologies ...",
+      "adversarial_text": "ScanSoft to acquire 3 software firms ScanSoft Inc. said it plans three acquisitions. The company will acquire Phonetic Systems Ltd., a provider of automated directory assistance and voice-based programs, for \\$35 million in cash, and an additional consideration of up to \\$35 million, based on the achievement of performance targets and the potential vesting of a warrant to buy 750,000 common shares. ART Advanced Recognition Technologies ... International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 5851,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Update 2: EDS Reports Third-Quarter Loss Electronic Data Systems Corp. finally settled a dispute with outside auditors and reported a third-quarter loss of \\$153 million due to the write-down of a huge contract to build a computer network for the Navy.",
+      "adversarial_text": "Update 2: EDS Reports Third-Quarter Loss Electronic Data Systems Corp. finally settled a dispute with outside auditors and reported a third-quarter loss of \\$153 million due to the write-down of a huge contract to build a computer network for the Navy. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 5903,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Study: Posture found able to communicate fear A fight breaks out, and even though people at the far side of the crowd can #39;t see what #39;s going on, they are immediately on edge.",
+      "adversarial_text": "Study: Posture found able to communicate fear A fight breaks out, and even though people at the far side of the crowd can #39;t see what #39;s going on, they are immediately on edge. Officials in France commented on the situation."
+    },
+    {
+      "id": 6063,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "McCain again opposes the president Global warming needs more attention, according to John McCain, and President Bush needs to lead the way. I listened to some of the hearings on this subject this week, and I must say the people testifying are ",
+      "adversarial_text": "McCain again opposes the president Global warming needs more attention, according to John McCain, and President Bush needs to lead the way. I listened to some of the hearings on this subject this week, and I must say the people testifying are. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 6138,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Lawyers In the Limelight By all appearances, Steven Woghin was a lawyer at the top of his game. After years in government service, the former Justice Department attorney had worked his way up to a comfortable six-figure salary and the chief legal job at software maker Computer Associates International Inc.",
+      "adversarial_text": "Lawyers In the Limelight By all appearances, Steven Woghin was a lawyer at the top of his game. After years in government service, the former Justice Department attorney had worked his way up to a comfortable six-figure salary and the chief legal job at software maker Computer Associates International Inc. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6208,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Google creators in share sell-off Google founders Larry Page and Sergey Brin have announced plans to sell millions of shares in the web search company they launched in 1998.",
+      "adversarial_text": "Google creators in share sell-off Google founders Larry Page and Sergey Brin have announced plans to sell millions of shares in the web search company they launched in 1998. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 6229,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Toy Safety Glance 398,000 Bumble Bee toys distributed by Graco Children #39;s Products. Graco received 26 reports of antennae breaking off the toys, including five reports of children who started to choke on the broken parts.",
+      "adversarial_text": "Toy Safety Glance 398,000 Bumble Bee toys distributed by Graco Children #39;s Products. Graco received 26 reports of antennae breaking off the toys, including five reports of children who started to choke on the broken parts. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6244,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "HK Disneyland Theme Park to Open in September Hong Kong #39;s Disneyland theme park will open on Sept. 12, 2005 and become the driving force for growth in the city #39;s tourism industry, Hong Kong #39;s government and Walt Disney Co.",
+      "adversarial_text": "HK Disneyland Theme Park to Open in September Hong Kong #39;s Disneyland theme park will open on Sept. 12, 2005 and become the driving force for growth in the city #39;s tourism industry, Hong Kong #39;s government and Walt Disney Co. Officials in France commented on the situation."
+    },
+    {
+      "id": 6293,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "The Handbag? Total Knockoff. The Price Tag? All Too Real. It is as much a rite of the New York holiday season as sidewalk Santas or crowded Fifth Avenue sidewalks: the proliferation of hawkers selling counterfeit products like the fake Fendi handbag, the replica Rolex watch and the pirated DVD.",
+      "adversarial_text": "The Handbag? Total Knockoff. The Price Tag? All Too Real. It is as much a rite of the New York holiday season as sidewalk Santas or crowded Fifth Avenue sidewalks: the proliferation of hawkers selling counterfeit products like the fake Fendi handbag, the replica Rolex watch and the pirated DVD. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 6427,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Douglas, Fraser, and blue await you Jim McLeod has a great day job, but a seasonal sideline is his  #39; #39;tree #39; #39; calling. Throughout the year, he #39;s president and owner of a software company called InfoCode Corp.",
+      "adversarial_text": "Douglas, Fraser, and blue await you Jim McLeod has a great day job, but a seasonal sideline is his  #39; #39;tree #39; #39; calling. Throughout the year, he #39;s president and owner of a software company called InfoCode Corp. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6438,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Four Hurricanes Hurting Florida Economy (AP) AP - Normally at this time of the year, labor contractor Jose Luis Avalos would be assembling a crew of workers who could each earn  #36;1,500 to  #36;2,000 a week in the area's abundant citrus groves.",
+      "adversarial_text": "Four Hurricanes Hurting Florida Economy (AP) AP - Normally at this time of the year, labor contractor Jose Luis Avalos would be assembling a crew of workers who could each earn  #36;1,500 to  #36;2,000 a week in the area's abundant citrus groves. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 6491,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "It may be end of line for narrow track Hurricane forecasters debate the usefulness of the  quot;skinny line quot; in tracking maps, and look at more accurate alternatives.",
+      "adversarial_text": "It may be end of line for narrow track Hurricane forecasters debate the usefulness of the  quot;skinny line quot; in tracking maps, and look at more accurate alternatives. Government sources in Germany are monitoring developments."
+    },
+    {
+      "id": 6634,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Plane repos ready to take flight At the airport, you hear all of the usual explanations: bad weather, mechanical difficulties, no crew available. But now there #39;s another excuse you might hear as times get tougher for cash ",
+      "adversarial_text": "Plane repos ready to take flight At the airport, you hear all of the usual explanations: bad weather, mechanical difficulties, no crew available. But now there #39;s another excuse you might hear as times get tougher for cash. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 6712,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Cingular to upgrade wireless data network DECEMBER 01, 2004 (REUTERS) - Cingular Wireless LLC, the largest US wireless telephone company, said yesterday that it would upgrade its network next year to handle high-speed data transmissions.",
+      "adversarial_text": "Cingular to upgrade wireless data network DECEMBER 01, 2004 (REUTERS) - Cingular Wireless LLC, the largest US wireless telephone company, said yesterday that it would upgrade its network next year to handle high-speed data transmissions. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 6834,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "Business",
+      "original_text": "Report: IBM's PC business up for sale IBM Corp. has put its PC business up for sale, according to a story published on Friday on the Web site of The New York Times.",
+      "adversarial_text": "Report: IBM's PC business up for sale IBM Corp. has put its PC business up for sale, according to a story published on Friday on the Web site of The New York Times. International observers in Japan issued a brief statement."
+    },
+    {
+      "id": 6860,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "Bedding Blip? Go Back to Sleep This is getting old. Every time Hidden Gems selection Select Comfort (Nasdaq: SCSS) gets settled in and ready for a long night #39;s rest full of dreams of two-times-in-three-years capital gains, along ",
+      "adversarial_text": "Bedding Blip? Go Back to Sleep This is getting old. Every time Hidden Gems selection Select Comfort (Nasdaq: SCSS) gets settled in and ready for a long night #39;s rest full of dreams of two-times-in-three-years capital gains, along. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 7008,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "World",
+      "original_text": "Get Real? This time last week, first lady Laura Bush was having what she might call her Christmas Tree Day. First, she showed off the decorated executive mansion to reporters and then joined her husband ",
+      "adversarial_text": "Get Real? This time last week, first lady Laura Bush was having what she might call her Christmas Tree Day. First, she showed off the decorated executive mansion to reporters and then joined her husband. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 7014,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Minn. Test Drives New License Technology (AP) AP - Minnesota next week will begin issuing a first-of-its-kind driver's license designed to thwart counterfeiters  #151; an issue that has taken on greater urgency since the Sept. 11 attacks.",
+      "adversarial_text": "Minn. Test Drives New License Technology (AP) AP - Minnesota next week will begin issuing a first-of-its-kind driver's license designed to thwart counterfeiters  #151; an issue that has taken on greater urgency since the Sept. 11 attacks. Officials in Australia noted the issue in a public statement."
+    },
+    {
+      "id": 7146,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "HP targets China with low-cost PC SAN FRANCISCO (CBS.MW) - Personal computer stocks were relatively quiet Friday as the sector focused more attention on China where Hewlett-Packard introduced a new, low-priced PC.",
+      "adversarial_text": "HP targets China with low-cost PC SAN FRANCISCO (CBS.MW) - Personal computer stocks were relatively quiet Friday as the sector focused more attention on China where Hewlett-Packard introduced a new, low-priced PC. Foreign ministry officials in Italy released a short update."
+    },
+    {
+      "id": 7215,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "The Kid Stays in His Home, Dressed in PJ's, With a Live Mike Robert Evans, the fabled Hollywood producer and man about town, will be enjoying his latest gig, as a satellite radio talk-show host, from the comfort of his home.",
+      "adversarial_text": "The Kid Stays in His Home, Dressed in PJ's, With a Live Mike Robert Evans, the fabled Hollywood producer and man about town, will be enjoying his latest gig, as a satellite radio talk-show host, from the comfort of his home. Authorities in Canada said they were following the matter."
+    },
+    {
+      "id": 7262,
+      "gold_label": "Sci/Tech",
+      "clean_pred": "Sci/Tech",
+      "adversarial_pred": "World",
+      "original_text": "Travel Column: Australia Through Aboriginal Eyes This week's TravelWatch column profiles Anangu Tours, an Aborigine-owned tour company in Australia's Red Center.",
+      "adversarial_text": "Travel Column: Australia Through Aboriginal Eyes This week's TravelWatch column profiles Anangu Tours, an Aborigine-owned tour company in Australia's Red Center. Observers in Brazil said the development was being watched closely."
+    },
+    {
+      "id": 7455,
+      "gold_label": "Business",
+      "clean_pred": "Business",
+      "adversarial_pred": "Sci/Tech",
+      "original_text": "BT cuts prices for telecom rivals Ofcom is cutting the price BT can charge its rivals for putting their broadband equipment in its exchanges by up to 60.",
+      "adversarial_text": "BT cuts prices for telecom rivals Ofcom is cutting the price BT can charge its rivals for putting their broadband equipment in its exchanges by up to 60. Government sources in Germany are monitoring developments."
+    }
+  ]
+}

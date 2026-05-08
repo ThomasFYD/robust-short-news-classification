@@ -1,0 +1,26 @@
+[
+  {
+    "model": "majority_baseline",
+    "setting": "adversarial_worldcue",
+    "accuracy": 0.0,
+    "macro_f1": 0.0,
+    "per_class_f1": {
+      "World": 0.0,
+      "Sports": 0.0,
+      "Business": 0.0,
+      "Sci/Tech": 0.0
+    }
+  },
+  {
+    "model": "tfidf_logreg",
+    "setting": "adversarial_worldcue",
+    "accuracy": 0.902280701754386,
+    "macro_f1": 0.6913752384506759,
+    "per_class_f1": {
+      "World": 0.0,
+      "Sports": 0.9731597129949509,
+      "Business": 0.8921810699588477,
+      "Sci/Tech": 0.9001601708489055
+    }
+  }
+]

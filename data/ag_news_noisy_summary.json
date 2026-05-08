@@ -1,0 +1,12 @@
+{
+  "num_examples": 7600,
+  "clean_file": "data/ag_news_test_clean.jsonl",
+  "noisy_file": "data/ag_news_test_noisy.jsonl",
+  "noise_types": [
+    "random capitalization changes",
+    "partial punctuation removal",
+    "extra spaces",
+    "limited synthetic typos"
+  ],
+  "random_seed": 42
+}
