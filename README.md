@@ -2,6 +2,9 @@
 
 This repository contains the code and report files for my CS505 NLP final project at Boston University.
 
+- **`code` branch**: SCC implementation code, generated datasets, experiment scripts, and result files
+- **`File` branch**: project documents only, including the proposal, midway report, and final report PDFs
+
 ## Project Overview
 
 This project studies **robust short news classification** on the **AG News** dataset. The task is a 4-class topic classification problem with the labels:
@@ -38,9 +41,6 @@ The adversarial subset is created by injecting short World-style cue sentences i
 
 ## Repository Structure
 This repository is organized across multiple branches:
-
-- **`code` branch**: SCC implementation code, generated datasets, experiment scripts, and result files
-- **`File` branch**: project documents only, including the proposal, midway report, and final report PDFs
 
 ```text
 .
