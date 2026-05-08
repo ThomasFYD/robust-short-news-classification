@@ -37,6 +37,10 @@ The noisy test set is created by applying small realistic perturbations to the A
 The adversarial subset is created by injecting short World-style cue sentences into Sports, Business, and Sci/Tech examples in order to test whether the classifier is vulnerable to spurious correlations.
 
 ## Repository Structure
+This repository is organized across multiple branches:
+
+- **`code` branch**: SCC implementation code, generated datasets, experiment scripts, and result files
+- **`File` branch**: project documents only, including the proposal, midway report, and final report PDFs
 
 ```text
 .
